@@ -1,0 +1,2001 @@
+user_id,age,gender,city,monthly_income,credit_score,employment_status,created_at
+U000000,58,M,Nueva Vietman,17998.23,691,Salaried,2024-06-22
+U000001,35,M,Nueva Chile,19704.71,748,Salaried,2025-06-16
+U000002,65,M,Nueva Rumania,11608.68,684,Self-Employed,2024-10-14
+U000003,75,M,Nueva Bosnia y Herzegovina,34459.08,752,Salaried,2024-05-09
+U000004,20,M,Nueva República de Macedonia del Norte,10080.07,691,Salaried,2024-04-24
+U000005,32,M,San Estefanía los bajos,10116.77,657,Salaried,2025-02-21
+U000006,63,F,San Abraham de la Montaña,15447.11,620,Salaried,2025-05-17
+U000007,55,F,San Jacinto los bajos,4745.96,659,Self-Employed,2024-03-21
+U000008,18,M,Vieja Brunei Darussalam,7275.74,678,Self-Employed,2024-02-02
+U000009,39,F,San Beatriz los bajos,7747.97,620,Salaried,2025-09-10
+U000010,66,F,San Salma los bajos,32189.3,706,Salaried,2025-08-09
+U000011,42,M,Vieja Qatar,13912.14,627,Salaried,2024-02-26
+U000012,40,F,San Arcelia los altos,9637.05,684,Self-Employed,2024-07-06
+U000013,64,F,San Reynaldo de la Montaña,6696.93,703,Salaried,2025-05-22
+U000014,42,M,Nueva Suecia,9317.19,668,Salaried,2024-05-17
+U000015,71,F,San Arcelia de la Montaña,9311.23,768,Salaried,2025-09-25
+U000016,63,M,Vieja Guinea,13251.97,652,Salaried,2024-11-08
+U000017,32,F,San Dalia los bajos,21884.35,639,Retired,2024-08-23
+U000018,72,M,Vieja Túnez,15143.37,622,Unemployed,2025-11-18
+U000019,42,F,Nueva Portugal,6021.48,684,Salaried,2025-06-10
+U000020,71,F,Nueva Mozambique,20807.73,713,Salaried,2024-09-11
+U000021,40,M,San Timoteo los altos,12464.14,670,Self-Employed,2025-01-27
+U000022,62,M,Vieja Bahrein,5502.11,657,Self-Employed,2024-05-17
+U000023,28,M,Vieja Lituania,10133.65,716,Salaried,2024-06-16
+U000024,42,F,Nueva República Democrática del Congo,16418.61,616,Retired,2025-10-02
+U000025,58,M,San Eric los altos,16227.3,679,Self-Employed,2024-12-13
+U000026,71,M,San Trinidad los bajos,8900.36,718,Salaried,2024-03-11
+U000027,20,F,San Clara de la Montaña,24800.02,722,Salaried,2025-06-22
+U000028,22,M,San Rocío los bajos,8074.53,656,Retired,2025-10-19
+U000029,54,F,San Jos de la Montaña,16297.35,732,Salaried,2024-03-08
+U000030,49,F,San Aurora de la Montaña,10021.57,677,Unemployed,2025-09-20
+U000031,59,F,Nueva Serbia,6878.8,638,Salaried,2024-03-25
+U000032,26,M,San Rubén de la Montaña,21753.19,739,Self-Employed,2024-09-15
+U000033,52,F,San Rubén los bajos,12794.8,728,Self-Employed,2025-01-05
+U000034,45,F,San Perla de la Montaña,16597.07,663,Salaried,2025-05-03
+U000035,26,F,Vieja Somalia,16594.68,741,Salaried,2024-08-12
+U000036,21,M,Vieja Mauricio,13075.62,736,Salaried,2024-03-23
+U000037,28,F,San Abelardo los altos,2774.3,699,Salaried,2025-10-02
+U000038,42,F,San Mónica de la Montaña,14076.02,673,Salaried,2024-12-20
+U000039,47,F,Vieja Singapur,14115.89,608,Retired,2024-12-20
+U000040,73,M,Nueva Kuwait,11709.98,712,Self-Employed,2025-07-06
+U000041,25,F,Nueva Saint Kitts y Nevis,32426.67,674,Self-Employed,2024-07-30
+U000042,39,M,San Aida de la Montaña,8224.76,657,Salaried,2025-11-12
+U000043,28,F,San Homero de la Montaña,23138.22,700,Salaried,2024-01-05
+U000044,64,F,Nueva Bhután,9721.97,712,Retired,2025-06-12
+U000045,66,M,San Ángela los altos,14160.99,735,Salaried,2025-07-08
+U000046,24,F,Nueva Sudán del Sur,8767.16,657,Self-Employed,2024-11-25
+U000047,50,M,Vieja Polonia,10559.01,627,Salaried,2025-09-29
+U000048,66,M,San Eric los altos,15957.31,709,Salaried,2025-06-30
+U000049,67,M,Vieja Lituania,13400.78,687,Salaried,2025-04-26
+U000050,49,M,San Marcela los altos,5714.59,663,Salaried,2024-11-06
+U000051,41,F,Nueva Estonia,10876.63,649,Salaried,2024-01-10
+U000052,33,M,San Alejandra los altos,12127.47,694,Salaried,2025-01-25
+U000053,49,M,Nueva Albania,41427.97,722,Retired,2024-01-16
+U000054,52,M,Nueva Belarús,15592.26,688,Salaried,2025-10-25
+U000055,48,M,Vieja Bélgica,4224.84,677,Salaried,2024-12-25
+U000056,73,F,Vieja Suriname,13851.35,798,Retired,2024-12-03
+U000057,52,M,Nueva Uruguay,11903.45,699,Self-Employed,2025-11-17
+U000058,43,F,San Federico los bajos,13084.36,637,Salaried,2025-08-10
+U000059,51,F,San Elias de la Montaña,26521.04,732,Salaried,2024-02-05
+U000060,32,M,San Joaquín los bajos,21474.45,651,Salaried,2024-10-06
+U000061,55,M,San Ana los altos,30997.96,652,Salaried,2025-04-12
+U000062,18,M,Nueva Luxemburgo,18998.48,765,Self-Employed,2025-06-09
+U000063,21,M,San Bianca de la Montaña,7373.72,645,Salaried,2024-04-18
+U000064,20,F,Vieja Chile,14182.88,654,Salaried,2024-10-14
+U000065,33,F,Vieja Mozambique,5269.03,674,Self-Employed,2024-06-03
+U000066,31,M,Vieja República Centroafricana,7062.95,691,Self-Employed,2024-02-06
+U000067,74,F,Nueva Bosnia y Herzegovina,7695.15,756,Salaried,2025-11-10
+U000068,48,F,Nueva Madagascar,8350.26,669,Salaried,2024-12-03
+U000069,24,F,San Ernesto los bajos,21766.13,634,Salaried,2025-10-22
+U000070,44,F,Nueva Letonia,15313.28,739,Unemployed,2023-11-23
+U000071,21,M,San Gabino los bajos,5092.43,672,Salaried,2024-06-30
+U000072,64,F,San Pilar los altos,15614.1,728,Self-Employed,2025-06-02
+U000073,24,M,San Cristal de la Montaña,6360.29,615,Salaried,2024-07-09
+U000074,52,F,Nueva República Federal Democrática de Nepal,18272.73,706,Salaried,2025-06-15
+U000075,29,F,Vieja Bahrein,15526.38,693,Salaried,2023-12-30
+U000076,73,M,San Nadia los altos,8883.8,704,Salaried,2024-03-23
+U000077,73,M,Nueva Dominicana,15928.15,673,Salaried,2024-01-14
+U000078,52,M,Nueva Luxemburgo,40923.7,735,Retired,2024-02-23
+U000079,66,M,Nueva San Vicente y las Granadinas,6536.9,715,Salaried,2024-01-24
+U000080,49,F,San Víctor los altos,7444.2,713,Salaried,2025-02-03
+U000081,43,M,San Francisca de la Montaña,26773.22,665,Salaried,2025-04-25
+U000082,18,F,San Evelio los bajos,23813.92,699,Salaried,2024-09-24
+U000083,68,F,Vieja Montenegro,21877.98,781,Salaried,2024-07-24
+U000084,62,F,Nueva Montenegro,11530.69,662,Salaried,2025-03-18
+U000085,36,M,Nueva Qatar,7834.49,643,Retired,2024-05-05
+U000086,55,M,San César los bajos,12755.77,703,Self-Employed,2025-10-06
+U000087,21,M,Nueva Kiribati,15772.36,709,Salaried,2024-06-30
+U000088,50,M,Vieja República Árabe Siria,13464.36,746,Salaried,2025-05-21
+U000089,50,M,San Sara los altos,11398.14,795,Unemployed,2025-01-05
+U000090,22,M,Vieja Suecia,19446.07,646,Self-Employed,2024-02-10
+U000091,33,F,Vieja Burundi,7026.64,692,Salaried,2025-10-13
+U000092,74,M,Nueva Grecia,11683.38,727,Salaried,2024-06-27
+U000093,20,M,Vieja Eritrea,17746.48,674,Salaried,2025-05-08
+U000094,55,F,San Natalia los bajos,8037.91,624,Retired,2024-06-04
+U000095,31,F,Nueva Sierra Leona,10219.89,709,Salaried,2024-10-16
+U000096,43,M,San Alvaro de la Montaña,15190.97,636,Self-Employed,2024-08-07
+U000097,37,F,Vieja Costa Rica,14822.6,698,Salaried,2025-06-19
+U000098,66,M,San Pedro los altos,7861.13,697,Salaried,2024-10-19
+U000099,57,M,Nueva Belice,13834.56,646,Salaried,2025-10-07
+U000100,31,F,Nueva Kiribati,16558.79,704,Salaried,2025-02-16
+U000101,40,M,Vieja Camerún,25586.77,737,Unemployed,2023-12-24
+U000102,41,F,San José de la Montaña,5845.33,638,Salaried,2025-10-20
+U000103,71,F,San Enrique los altos,18197.17,724,Self-Employed,2024-06-02
+U000104,69,M,Vieja República de Macedonia del Norte,18197.3,850,Self-Employed,2025-10-08
+U000105,53,F,San Silvano los altos,18817.34,740,Retired,2024-03-21
+U000106,24,M,Nueva Dinamarca,23680.35,711,Salaried,2025-10-06
+U000107,74,M,San Alberto de la Montaña,11057.22,728,Self-Employed,2025-06-16
+U000108,27,F,San Lilia los altos,8402.67,662,Salaried,2025-09-23
+U000109,31,F,Vieja Congo,9984.43,678,Salaried,2025-07-25
+U000110,58,F,Vieja Armenia,53572.71,657,Salaried,2025-09-18
+U000111,34,M,San Estela de la Montaña,20166.06,622,Salaried,2025-08-17
+U000112,45,F,San Jerónimo los bajos,10065.22,726,Salaried,2025-08-20
+U000113,39,M,Nueva Arabia Saudita,13885.05,640,Self-Employed,2025-04-17
+U000114,34,M,Vieja Islas Marshall,8697.73,702,Self-Employed,2024-06-25
+U000115,53,F,Vieja Japón,8619.48,693,Salaried,2025-04-03
+U000116,25,M,San Omar los bajos,13730.06,650,Retired,2025-11-20
+U000117,62,M,Nueva Georgia,48357.01,754,Salaried,2024-04-08
+U000118,71,F,San Alfonso de la Montaña,3963.63,696,Salaried,2025-02-27
+U000119,27,F,San Jaime los altos,8981.55,706,Salaried,2025-07-24
+U000120,37,F,San Marco Antonio los altos,8303.96,672,Unemployed,2024-12-23
+U000121,68,M,Vieja República Dominicana,18087.79,736,Unemployed,2024-04-17
+U000122,31,M,San Alvaro los altos,6501.72,658,Self-Employed,2024-10-25
+U000123,40,F,Nueva Kirguistán,10047.03,653,Retired,2024-10-21
+U000124,65,M,Vieja Senegal,38533.09,737,Retired,2024-07-22
+U000125,33,M,Vieja Pakistán,6269.61,709,Retired,2024-07-19
+U000126,69,M,San Itzel los bajos,47728.96,773,Unemployed,2025-05-16
+U000127,19,M,San Perla de la Montaña,5368.9,645,Self-Employed,2024-04-19
+U000128,39,F,San Wendolin los bajos,28570.98,669,Self-Employed,2025-05-01
+U000129,73,M,Vieja Luxemburgo,17435.99,734,Salaried,2025-01-20
+U000130,68,M,Vieja Guinea Ecuatorial,7660.57,689,Salaried,2024-05-03
+U000131,20,F,San Ricardo los altos,1910.73,620,Salaried,2025-04-13
+U000132,70,F,San Martha los bajos,11481.12,646,Salaried,2024-10-30
+U000133,70,M,Vieja Venezuela,35576.72,663,Salaried,2024-04-01
+U000134,60,M,Vieja Panamá,10259.64,695,Salaried,2025-04-20
+U000135,35,M,San Aurelio de la Montaña,31721.94,641,Retired,2025-04-27
+U000136,35,F,San Espartaco de la Montaña,26846.7,694,Self-Employed,2024-03-15
+U000137,43,F,Nueva Finlandia,7413.77,697,Retired,2024-11-25
+U000138,25,F,Vieja Malawi,15054.55,653,Salaried,2025-10-10
+U000139,34,M,Vieja Nueva Zelandia,13931.13,665,Salaried,2024-09-27
+U000140,45,F,Nueva Sudán,14301.37,713,Self-Employed,2025-05-09
+U000141,38,F,Nueva Mali,34600.04,654,Self-Employed,2024-05-09
+U000142,50,M,Vieja Azerbaiyán,48041.48,644,Salaried,2025-01-27
+U000143,54,M,Nueva Mongolia,12196.8,712,Salaried,2024-03-04
+U000144,63,F,San Yeni los altos,15813.12,672,Salaried,2025-01-29
+U000145,69,M,San Margarita los altos,11791.41,676,Salaried,2025-08-16
+U000146,22,F,San Pascual los bajos,9380.43,704,Self-Employed,2025-10-18
+U000147,60,M,Vieja Mónaco,16551.12,668,Self-Employed,2024-06-10
+U000148,37,F,Vieja Paraguay,22919.88,703,Self-Employed,2024-12-02
+U000149,38,F,Vieja Mauritania,21757.58,715,Self-Employed,2024-01-21
+U000150,53,M,San Eugenio los bajos,8124.2,662,Salaried,2024-08-08
+U000151,60,F,San Paola de la Montaña,20918.23,725,Self-Employed,2024-03-08
+U000152,75,M,Nueva Líbano,13193.23,705,Self-Employed,2025-05-14
+U000153,37,F,Nueva Barbados,28755.92,673,Salaried,2024-10-09
+U000154,18,F,San Isabel los altos,18550.62,669,Salaried,2024-11-17
+U000155,45,F,San Anel de la Montaña,11723.98,728,Salaried,2025-08-29
+U000156,46,M,San Julio los altos,21922.08,727,Salaried,2025-05-15
+U000157,68,M,Vieja Nicaragua,29239.84,714,Self-Employed,2023-11-26
+U000158,36,F,San Héctor los bajos,20114.01,675,Salaried,2025-09-14
+U000159,66,M,San Pablo los altos,16228.1,694,Self-Employed,2025-06-14
+U000160,32,M,Vieja Estados Unidos de América,14160.3,703,Salaried,2024-06-20
+U000161,20,M,San Mercedes de la Montaña,8176.89,751,Retired,2024-09-19
+U000162,57,M,San Yolanda los altos,7305.55,637,Salaried,2025-08-02
+U000163,74,M,San Daniel los bajos,26765.43,745,Self-Employed,2025-11-05
+U000164,42,F,Nueva Libia,19428.02,715,Salaried,2025-02-23
+U000165,27,M,Nueva Somalia,13261.92,640,Unemployed,2024-10-19
+U000166,73,M,Vieja Djibouti,13981.39,673,Self-Employed,2023-12-31
+U000167,32,M,San Juan los bajos,23982.31,684,Self-Employed,2024-05-04
+U000168,62,F,San Itzel los bajos,8141.27,676,Salaried,2025-07-05
+U000169,33,M,San Germán los bajos,17115.83,661,Salaried,2024-06-04
+U000170,69,F,Vieja Angola,8157.29,702,Self-Employed,2025-06-25
+U000171,53,F,Vieja Estonia,15474.98,671,Retired,2025-04-09
+U000172,75,F,Nueva Argelia,10070.61,706,Self-Employed,2024-06-01
+U000173,64,F,Nueva Senegal,5603.52,631,Self-Employed,2024-03-19
+U000174,53,F,Nueva Nauru,8681.36,676,Unemployed,2025-04-24
+U000175,65,F,Nueva Myanmar,16099.52,757,Salaried,2025-05-18
+U000176,66,M,San José Carlos de la Montaña,22350.32,698,Self-Employed,2025-03-06
+U000177,35,F,Nueva Indonesia,13208.16,640,Self-Employed,2024-02-13
+U000178,35,F,Vieja República Dominicana,13212.15,669,Salaried,2025-05-01
+U000179,36,M,San Leonel los altos,16214.01,651,Salaried,2024-04-24
+U000180,38,M,Nueva Brunei Darussalam,18244.3,748,Salaried,2025-05-16
+U000181,32,F,San Ruby de la Montaña,12515.76,694,Self-Employed,2025-08-01
+U000182,63,M,Vieja Portugal,20213.1,685,Salaried,2024-10-19
+U000183,44,F,San Ángela los altos,15282.38,687,Salaried,2025-04-07
+U000184,44,M,San Adán los bajos,14166.08,655,Salaried,2025-08-21
+U000185,44,F,San Bernabé los bajos,13557.65,705,Retired,2024-08-29
+U000186,55,M,San Cristian los bajos,31910.37,747,Unemployed,2024-04-06
+U000187,66,F,San Sergio los altos,48625.8,700,Salaried,2025-07-15
+U000188,40,F,San Martha los bajos,22547.79,699,Self-Employed,2025-08-24
+U000189,72,F,San Irene de la Montaña,49706.04,703,Salaried,2025-08-28
+U000190,65,M,Vieja Mónaco,8072.08,666,Salaried,2024-05-29
+U000191,35,F,San Rebeca los altos,3735.6,650,Salaried,2025-04-23
+U000192,42,F,San Iván de la Montaña,8471.99,685,Self-Employed,2024-12-09
+U000193,69,F,San Dulce los bajos,16400.28,775,Self-Employed,2024-05-04
+U000194,71,F,San Francisco Javier los bajos,23629.57,686,Retired,2024-06-26
+U000195,57,M,San Pilar de la Montaña,7792.77,705,Retired,2024-12-27
+U000196,55,M,Nueva Filipinas,6050.28,756,Salaried,2025-06-03
+U000197,45,M,San Minerva los altos,27110.17,680,Unemployed,2025-07-02
+U000198,29,M,Vieja Sri Lanka,4779.63,723,Salaried,2025-05-27
+U000199,38,M,San Marisol de la Montaña,12472.43,730,Salaried,2024-02-02
+U000200,39,F,San Estela los bajos,5132.48,650,Salaried,2025-05-12
+U000201,71,F,Vieja Suecia,13401.83,700,Salaried,2025-02-15
+U000202,23,F,San Mario los altos,10198.14,696,Salaried,2025-01-07
+U000203,52,M,San Luz los altos,7040.45,677,Retired,2025-01-22
+U000204,40,M,San Jesús los altos,14359.65,704,Self-Employed,2024-11-08
+U000205,67,M,San Hilda los bajos,20475.18,658,Self-Employed,2024-05-19
+U000206,33,M,Nueva Irán,5321.61,722,Self-Employed,2024-02-22
+U000207,57,M,Nueva España,16307.63,664,Salaried,2025-06-17
+U000208,48,M,San Gerónimo los altos,33883.76,712,Salaried,2025-02-21
+U000209,31,F,San Benito de la Montaña,27107.84,695,Self-Employed,2024-07-09
+U000210,67,F,Vieja Dinamarca,46002.4,799,Salaried,2024-07-13
+U000211,56,M,Nueva Guatemala,11505.97,728,Self-Employed,2023-12-27
+U000212,28,F,Vieja Trinidad y Tabago,19677.39,738,Salaried,2024-02-28
+U000213,19,F,San Benjamín de la Montaña,7487.92,694,Salaried,2025-02-09
+U000214,42,F,San Mariano los bajos,25211.48,625,Retired,2024-10-29
+U000215,30,M,San Dulce María de la Montaña,6568.53,589,Salaried,2024-06-05
+U000216,71,M,San Camila de la Montaña,11365.71,725,Salaried,2024-09-28
+U000217,67,F,San Antonia los altos,32906.13,719,Unemployed,2025-03-24
+U000218,56,M,Nueva Colombia,35495.79,658,Self-Employed,2025-08-13
+U000219,54,M,San Arturo de la Montaña,4807.68,679,Salaried,2024-02-22
+U000220,45,F,San Samuel los altos,16821.94,688,Salaried,2025-07-28
+U000221,59,F,Vieja Mónaco,3864.3,679,Salaried,2025-10-27
+U000222,44,F,San Héctor los altos,6107.78,704,Salaried,2024-10-20
+U000223,41,F,San Rebeca los altos,16646.56,649,Self-Employed,2024-01-07
+U000224,45,M,Nueva Serbia,9815.13,639,Self-Employed,2024-05-03
+U000225,59,F,San Virginia de la Montaña,12866.63,730,Self-Employed,2024-03-22
+U000226,52,F,Nueva República Checa,7395.04,703,Salaried,2024-01-19
+U000227,70,F,Nueva Madagascar,9719.07,663,Salaried,2024-11-05
+U000228,33,M,San Guillermo de la Montaña,12528.76,637,Salaried,2024-05-19
+U000229,46,M,San Guillermina los altos,9583.62,634,Self-Employed,2025-09-19
+U000230,54,F,San Angélica los altos,43426.93,721,Salaried,2024-05-21
+U000231,49,F,San Socorro los altos,8779.41,691,Salaried,2025-04-18
+U000232,31,F,Vieja Burundi,12489.0,669,Self-Employed,2025-01-17
+U000233,39,F,Nueva Granada,19312.35,719,Unemployed,2025-08-25
+U000234,62,F,Nueva Bangladesh,9717.65,667,Salaried,2024-03-29
+U000235,51,M,San Rosario los altos,11327.28,594,Salaried,2025-08-23
+U000236,64,F,San Marcela de la Montaña,5382.38,742,Salaried,2024-11-20
+U000237,66,M,San Karina los bajos,35845.76,708,Self-Employed,2024-12-14
+U000238,59,F,San Marcela de la Montaña,18881.43,710,Salaried,2025-02-28
+U000239,19,M,Vieja Venezuela,84738.77,789,Salaried,2024-07-29
+U000240,43,M,San Aldonza de la Montaña,12372.72,645,Salaried,2024-05-17
+U000241,55,F,Vieja República Dominicana,5095.6,690,Salaried,2023-12-23
+U000242,51,F,Vieja Papua Nueva Guinea,8486.14,627,Salaried,2025-04-11
+U000243,65,F,San Germán de la Montaña,9063.91,648,Salaried,2025-02-18
+U000244,47,F,San Teresa los bajos,36764.39,745,Salaried,2024-01-31
+U000245,32,M,San Jaqueline los bajos,13295.97,738,Self-Employed,2024-08-06
+U000246,38,M,San Yuridia de la Montaña,13994.52,648,Self-Employed,2025-09-18
+U000247,66,M,Vieja Malasia,33318.71,737,Salaried,2025-05-13
+U000248,65,F,San Graciela los altos,7169.94,682,Salaried,2024-09-28
+U000249,55,F,Vieja Bolivia,7900.09,630,Retired,2024-07-23
+U000250,71,M,San Irene de la Montaña,23288.3,785,Salaried,2025-07-14
+U000251,41,M,San Noelia de la Montaña,5772.49,698,Salaried,2025-04-15
+U000252,63,M,San Liliana de la Montaña,9041.81,671,Salaried,2024-04-15
+U000253,21,F,San Silvia los bajos,9363.4,635,Self-Employed,2025-03-21
+U000254,26,F,San Amelia de la Montaña,13754.39,643,Salaried,2024-06-16
+U000255,18,F,Vieja Mauritania,15713.48,672,Salaried,2025-10-06
+U000256,46,F,San Carlos de la Montaña,11575.33,648,Salaried,2025-03-25
+U000257,21,F,Nueva Indonesia,9451.58,700,Retired,2025-01-22
+U000258,48,M,Vieja Bosnia y Herzegovina,18043.67,652,Self-Employed,2024-05-14
+U000259,43,F,Vieja Cabo Verde,14180.16,715,Salaried,2025-04-08
+U000260,58,M,Vieja Ucrania,4906.7,705,Salaried,2024-07-05
+U000261,69,F,San Linda los bajos,8977.04,716,Salaried,2024-11-22
+U000262,33,M,Vieja República Checa,8451.04,602,Salaried,2024-03-13
+U000263,44,M,San Elias los altos,5031.51,678,Self-Employed,2024-12-20
+U000264,42,F,Nueva Guatemala,15612.6,650,Retired,2025-07-14
+U000265,37,F,San Jacinto los altos,19597.46,621,Salaried,2024-06-16
+U000266,57,M,Vieja Uruguay,12840.41,642,Self-Employed,2024-07-10
+U000267,65,M,San Conchita los bajos,9035.34,693,Retired,2025-01-13
+U000268,31,M,San Jaime los bajos,7972.49,658,Salaried,2025-01-23
+U000269,23,M,San María Eugenia los bajos,24435.09,662,Salaried,2025-09-27
+U000270,53,M,Nueva República Democrática Popular Lao,22057.66,653,Salaried,2024-09-14
+U000271,44,F,Vieja Austria,18359.13,748,Self-Employed,2024-07-26
+U000272,48,F,San Juana los bajos,3032.11,645,Salaried,2025-04-20
+U000273,36,F,Vieja Armenia,18887.27,678,Self-Employed,2024-02-28
+U000274,47,M,San Benito los bajos,16692.04,666,Self-Employed,2024-02-07
+U000275,34,M,San Adela los altos,14072.16,674,Salaried,2024-03-12
+U000276,52,M,San Vanesa de la Montaña,26921.2,713,Self-Employed,2024-01-19
+U000277,35,M,San Gabino los bajos,16359.46,667,Salaried,2025-03-20
+U000278,28,F,San Violeta de la Montaña,9971.0,656,Salaried,2025-09-13
+U000279,70,F,San Zeferino los altos,16927.1,685,Salaried,2024-09-12
+U000280,47,F,San Socorro los altos,15896.67,772,Self-Employed,2025-10-11
+U000281,35,F,San Patricia de la Montaña,22531.62,676,Salaried,2025-03-15
+U000282,56,M,Nueva Seychelles,27466.66,689,Unemployed,2025-05-06
+U000283,65,F,San Esperanza los altos,3932.87,646,Self-Employed,2024-01-31
+U000284,19,M,San Berta los altos,4348.23,649,Salaried,2025-05-21
+U000285,61,M,Vieja Côte d'Ivoire,13508.18,761,Retired,2025-05-14
+U000286,61,F,San Alicia de la Montaña,16255.01,687,Salaried,2024-07-30
+U000287,66,M,Vieja Kazajstán,21974.62,616,Salaried,2024-09-08
+U000288,59,F,San Clemente de la Montaña,15388.39,725,Retired,2025-01-07
+U000289,29,F,San Raúl los altos,5501.9,715,Self-Employed,2025-07-29
+U000290,49,M,Nueva Cuba,16368.23,674,Salaried,2024-01-22
+U000291,44,F,San Silvano los altos,19529.26,782,Salaried,2024-05-27
+U000292,24,M,San Rodolfo de la Montaña,14900.05,686,Salaried,2024-05-20
+U000293,62,F,San Teodoro los bajos,10141.42,657,Salaried,2024-11-12
+U000294,43,M,San Yeni de la Montaña,21986.89,659,Salaried,2025-10-20
+U000295,38,F,San Graciela los altos,13945.88,663,Salaried,2025-01-19
+U000296,67,F,Nueva México,17807.73,714,Unemployed,2024-08-16
+U000297,70,M,San Timoteo los bajos,24897.53,689,Self-Employed,2025-05-11
+U000298,52,F,San María Eugenia los bajos,11362.51,648,Salaried,2024-04-24
+U000299,30,F,San Maximiliano de la Montaña,10233.52,690,Self-Employed,2024-05-24
+U000300,49,F,San Reina los bajos,21040.26,658,Self-Employed,2025-02-10
+U000301,31,F,San Gustavo de la Montaña,22511.09,742,Salaried,2025-08-27
+U000302,36,F,San Gerardo de la Montaña,17121.0,760,Unemployed,2025-02-03
+U000303,49,M,Vieja Guinea Ecuatorial,8397.81,633,Salaried,2025-07-16
+U000304,58,M,Vieja Estados Unidos de América,4595.2,743,Self-Employed,2025-03-30
+U000305,37,M,Vieja Tailandia,19783.81,686,Salaried,2025-06-30
+U000306,23,M,Nueva Serbia,15803.41,632,Retired,2025-04-07
+U000307,25,F,Vieja Mauritania,57956.68,725,Retired,2023-12-17
+U000308,59,M,San César de la Montaña,14266.04,722,Salaried,2025-10-28
+U000309,63,F,San Itzel los altos,17829.43,708,Salaried,2024-10-09
+U000310,35,F,Nueva Canadá,8314.16,694,Self-Employed,2025-07-24
+U000311,48,M,San Olga los altos,41324.66,769,Salaried,2025-10-31
+U000312,27,F,San Daniel los bajos,34749.21,677,Salaried,2025-10-31
+U000313,56,M,San Gustavo los altos,7377.85,680,Unemployed,2025-09-28
+U000314,35,F,San Camila los bajos,13813.96,725,Salaried,2024-01-19
+U000315,68,F,Nueva Tailandia,4839.28,750,Self-Employed,2025-06-06
+U000316,36,F,San Porfirio los bajos,12151.35,663,Self-Employed,2024-01-31
+U000317,55,F,San Adela los bajos,7278.92,618,Unemployed,2025-01-11
+U000318,46,F,Vieja Kiribati,21892.56,697,Salaried,2025-04-27
+U000319,53,F,San Rocío los bajos,6161.18,630,Salaried,2025-08-21
+U000320,38,M,San Bianca los altos,10921.94,746,Retired,2024-05-21
+U000321,33,F,San Alberto los altos,11432.84,617,Salaried,2025-10-08
+U000322,67,F,San Santiago de la Montaña,11528.23,684,Salaried,2025-04-08
+U000323,65,F,Vieja Túnez,2648.82,682,Self-Employed,2024-07-13
+U000324,69,F,San Camilo de la Montaña,11631.12,723,Salaried,2023-12-27
+U000325,60,M,Vieja Nueva Zelandia,40512.82,765,Salaried,2024-02-20
+U000326,20,M,Nueva Qatar,11369.24,627,Salaried,2024-03-06
+U000327,55,F,San María Elena los bajos,62568.42,742,Unemployed,2025-04-25
+U000328,73,F,San Rodrigo los altos,13471.85,699,Salaried,2025-06-08
+U000329,47,M,Vieja Sudán,15045.75,682,Self-Employed,2024-02-06
+U000330,44,M,San Sergio los bajos,9469.23,659,Salaried,2025-11-20
+U000331,68,F,San Alonso los altos,13099.74,675,Salaried,2024-09-04
+U000332,62,F,Vieja México,8710.57,693,Self-Employed,2024-05-23
+U000333,72,F,San Berta los altos,11464.54,757,Unemployed,2024-09-02
+U000334,72,F,San Anel los bajos,2722.81,732,Retired,2024-06-23
+U000335,58,F,Nueva Mongolia,28216.19,624,Unemployed,2024-02-01
+U000336,20,M,Nueva Azerbaiyán,10876.8,656,Salaried,2025-07-25
+U000337,61,F,San Federico de la Montaña,5741.6,655,Retired,2025-07-25
+U000338,65,M,Nueva República Checa,6861.32,759,Salaried,2024-04-30
+U000339,24,M,Nueva Islas Marshall,23421.44,736,Salaried,2025-07-15
+U000340,62,F,Nueva Guatemala,20599.11,656,Retired,2025-09-18
+U000341,20,F,Nueva Reino Unido de Gran Bretaña e Irlanda del Norte,9752.59,689,Self-Employed,2024-06-03
+U000342,36,F,Nueva Suecia,6417.11,702,Salaried,2025-09-24
+U000343,27,M,Nueva Andorra,11565.77,660,Salaried,2024-08-26
+U000344,54,M,Vieja Angola,20467.14,715,Salaried,2024-04-05
+U000345,23,F,San Amelia de la Montaña,10758.17,718,Self-Employed,2025-06-20
+U000346,33,F,San Olivia de la Montaña,6983.89,698,Retired,2025-06-23
+U000347,27,M,Vieja Micronesia,19069.79,670,Salaried,2025-07-18
+U000348,34,F,San Nelly los altos,16247.26,633,Salaried,2024-02-14
+U000349,18,F,San Nadia de la Montaña,23258.27,674,Retired,2025-03-13
+U000350,61,M,Vieja Montenegro,9763.11,732,Salaried,2025-04-04
+U000351,40,F,Nueva Nicaragua,8755.12,622,Self-Employed,2025-09-10
+U000352,45,F,San Luis los altos,5250.21,701,Salaried,2024-02-13
+U000353,37,M,San María de la Montaña,6196.52,744,Retired,2025-10-20
+U000354,72,F,Vieja San Marino,3830.85,757,Salaried,2024-03-16
+U000355,42,F,Nueva Guatemala,15162.95,682,Salaried,2025-03-20
+U000356,62,F,San Juana los altos,9633.95,706,Salaried,2025-01-07
+U000357,71,F,San María Elena los altos,13061.43,742,Salaried,2025-03-06
+U000358,54,M,San Berta los altos,14307.46,697,Retired,2024-02-18
+U000359,65,F,Vieja Mónaco,10741.1,690,Self-Employed,2025-10-11
+U000360,75,F,Vieja Israel,16069.54,635,Self-Employed,2025-08-25
+U000361,32,F,San Leonor los bajos,5949.66,701,Salaried,2025-06-10
+U000362,30,F,Vieja Malta,14802.02,672,Self-Employed,2024-07-21
+U000363,64,M,San José Luis de la Montaña,13508.31,709,Self-Employed,2025-05-08
+U000364,75,M,San Ángel de la Montaña,9663.82,666,Salaried,2025-08-29
+U000365,46,M,Nueva Marruecos,15025.55,648,Salaried,2024-02-05
+U000366,64,M,San Catalina los altos,17067.85,630,Salaried,2024-01-07
+U000367,36,F,San Yuridia de la Montaña,24772.6,711,Self-Employed,2024-10-06
+U000368,29,M,San Wendolin los bajos,15578.05,719,Salaried,2025-09-26
+U000369,52,F,Vieja Saint Kitts y Nevis,36289.53,752,Salaried,2024-07-21
+U000370,35,M,San Bernardo los altos,4426.99,620,Salaried,2024-12-20
+U000371,70,F,Nueva Sudán del Sur,9183.0,695,Retired,2024-11-30
+U000372,36,F,Nueva Japón,18225.84,657,Self-Employed,2025-09-08
+U000373,47,M,San Camila los bajos,14943.92,658,Salaried,2025-02-09
+U000374,32,F,Vieja República de Macedonia del Norte,9256.57,618,Retired,2025-07-10
+U000375,69,F,Vieja Argelia,7677.58,638,Salaried,2024-04-10
+U000376,43,M,San Horacio los bajos,7438.88,721,Salaried,2024-08-20
+U000377,25,F,Nueva China,7557.99,775,Salaried,2025-02-03
+U000378,65,F,San Ángela de la Montaña,17961.59,707,Salaried,2025-06-19
+U000379,70,F,Nueva Zambia,7982.33,720,Salaried,2025-01-07
+U000380,32,F,Vieja Maldivas,9458.01,680,Salaried,2024-11-08
+U000381,74,F,San Cristina los bajos,62072.03,745,Retired,2024-07-21
+U000382,32,M,San Raquel los altos,26623.88,664,Self-Employed,2024-01-26
+U000383,47,F,Nueva Congo,13082.19,757,Self-Employed,2025-06-29
+U000384,25,M,Nueva Grecia,9171.17,744,Salaried,2024-10-31
+U000385,20,F,San Mercedes los altos,20427.78,657,Retired,2024-10-30
+U000386,25,M,San Georgina de la Montaña,19524.88,720,Salaried,2025-06-30
+U000387,52,M,Vieja Marruecos,19401.12,632,Salaried,2024-02-16
+U000388,41,F,San Rosalia los bajos,8636.2,669,Salaried,2025-01-04
+U000389,64,M,San Amalia de la Montaña,12776.21,719,Unemployed,2024-09-24
+U000390,59,M,Nueva Eritrea,14862.86,640,Self-Employed,2024-07-13
+U000391,57,F,Nueva Gambia,16782.95,719,Retired,2024-07-03
+U000392,35,M,San Carla de la Montaña,18692.44,729,Self-Employed,2024-12-12
+U000393,31,F,San Delia de la Montaña,22034.25,705,Salaried,2024-09-12
+U000394,33,F,Vieja Bélgica,12808.96,612,Salaried,2024-09-25
+U000395,61,F,Vieja Angola,17288.05,706,Salaried,2024-11-13
+U000396,59,F,Vieja República Dominicana,15724.06,644,Salaried,2024-10-20
+U000397,35,M,San Timoteo los bajos,6983.92,716,Retired,2024-07-03
+U000398,72,F,Vieja Antigua y Barbuda,13046.39,726,Salaried,2024-07-31
+U000399,31,M,Vieja Togo,13588.66,680,Salaried,2025-11-05
+U000400,39,M,San Augusto los bajos,23458.08,672,Retired,2025-09-07
+U000401,68,M,Nueva Mauricio,14152.87,679,Salaried,2025-02-21
+U000402,66,M,San Ofelia de la Montaña,10293.85,680,Salaried,2024-09-24
+U000403,70,M,San Ivonne de la Montaña,15264.43,681,Salaried,2024-08-06
+U000404,27,M,Nueva Palau,28380.39,656,Salaried,2025-03-27
+U000405,27,M,Nueva Japón,11942.72,657,Salaried,2024-08-20
+U000406,69,M,Nueva Brunei Darussalam,31830.71,724,Salaried,2024-03-14
+U000407,73,M,San Elvia de la Montaña,24812.6,651,Salaried,2025-03-03
+U000408,40,M,Nueva Dinamarca,15681.39,721,Salaried,2025-07-14
+U000409,19,M,San Marisol los altos,14035.85,716,Salaried,2025-07-04
+U000410,26,F,San Raúl los altos,9795.0,729,Salaried,2025-03-29
+U000411,65,M,San Soledad los bajos,53068.5,721,Salaried,2024-03-18
+U000412,67,F,San Ángel los bajos,10226.1,751,Salaried,2024-10-30
+U000413,24,F,San Gerardo los altos,34466.51,675,Salaried,2024-01-04
+U000414,57,M,San Natividad de la Montaña,10382.61,677,Self-Employed,2024-07-20
+U000415,73,F,San María Cristina de la Montaña,5963.0,655,Salaried,2024-01-05
+U000416,19,M,San Gonzalo de la Montaña,7313.78,636,Retired,2025-04-05
+U000417,72,F,Vieja Mozambique,13084.57,708,Salaried,2025-02-14
+U000418,24,F,Vieja República Democrática Popular Lao,33870.52,655,Self-Employed,2025-04-11
+U000419,46,M,Vieja Samoa,24115.1,688,Unemployed,2024-11-25
+U000420,38,M,Nueva Mónaco,12969.06,708,Salaried,2024-02-10
+U000421,35,F,San Arturo los altos,6811.49,689,Salaried,2025-04-06
+U000422,56,F,Nueva Francia,14762.88,712,Salaried,2025-05-24
+U000423,56,F,San Marcela los altos,15890.89,792,Salaried,2025-01-01
+U000424,62,M,Vieja Kuwait,9112.08,668,Unemployed,2025-11-03
+U000425,59,M,San Julia los bajos,9192.25,666,Salaried,2025-07-15
+U000426,74,M,San Rufino de la Montaña,9114.01,743,Salaried,2025-07-27
+U000427,70,F,San Andrés los bajos,31329.1,693,Salaried,2024-02-03
+U000428,64,M,San Gloria los bajos,8107.84,708,Salaried,2025-06-06
+U000429,38,F,Vieja Benin,9591.82,703,Salaried,2025-02-16
+U000430,27,F,Vieja Indonesia,15089.49,617,Salaried,2025-04-14
+U000431,71,M,San Catalina los altos,33809.7,791,Salaried,2025-05-25
+U000432,24,F,Vieja República de Macedonia del Norte,9249.52,655,Self-Employed,2024-09-09
+U000433,53,M,San Carolina los altos,15859.42,705,Salaried,2025-05-20
+U000434,53,F,Vieja Palau,19833.48,776,Self-Employed,2024-08-29
+U000435,44,F,Vieja Indonesia,12014.05,652,Unemployed,2024-04-10
+U000436,66,F,Vieja Nigeria,5839.55,659,Unemployed,2024-04-19
+U000437,64,M,Nueva Comoras,13096.81,766,Retired,2024-01-20
+U000438,56,F,San Benito los altos,9793.1,696,Salaried,2025-07-12
+U000439,54,M,Vieja San Vicente y las Granadinas,13228.73,737,Salaried,2024-03-02
+U000440,48,M,San Cristian de la Montaña,60849.53,713,Self-Employed,2024-04-10
+U000441,40,F,Vieja Austria,9960.04,721,Salaried,2024-10-06
+U000442,35,M,San Zoé los altos,20113.27,761,Self-Employed,2024-05-24
+U000443,72,M,San Santiago los bajos,18965.12,690,Self-Employed,2025-06-28
+U000444,60,F,San Eugenia los altos,19041.82,743,Salaried,2024-05-25
+U000445,35,F,San Mariano de la Montaña,21857.28,709,Retired,2024-09-02
+U000446,40,M,San María Teresa los bajos,25336.59,742,Salaried,2025-07-18
+U000447,27,F,San Nadia los altos,30616.53,720,Salaried,2024-10-12
+U000448,65,M,Nueva Samoa,12085.11,700,Salaried,2024-03-08
+U000449,51,M,San Amelia los altos,27554.07,670,Salaried,2024-11-29
+U000450,47,F,San Perla de la Montaña,16667.3,674,Salaried,2025-05-27
+U000451,37,F,Vieja Bhután,13592.14,733,Self-Employed,2025-07-06
+U000452,54,M,Vieja Mónaco,14982.82,693,Unemployed,2025-10-25
+U000453,27,M,Vieja Bosnia y Herzegovina,5908.14,699,Self-Employed,2025-10-29
+U000454,21,M,Vieja Japón,19678.67,766,Salaried,2025-11-13
+U000455,60,F,Vieja Bahamas,11107.02,699,Salaried,2024-09-24
+U000456,46,F,San Eugenio los bajos,15516.05,751,Salaried,2024-01-24
+U000457,66,M,San Esparta de la Montaña,12617.28,706,Salaried,2024-07-26
+U000458,25,F,Vieja Chipre,19239.83,689,Self-Employed,2024-03-07
+U000459,55,F,Vieja Namibia,10220.39,695,Salaried,2025-05-15
+U000460,37,M,Vieja Micronesia,25442.57,652,Salaried,2025-03-13
+U000461,56,M,Nueva Angola,14469.26,664,Salaried,2024-06-07
+U000462,37,M,Nueva República Centroafricana,27365.22,634,Self-Employed,2025-11-21
+U000463,66,F,San Blanca los bajos,9553.35,707,Salaried,2024-05-24
+U000464,25,M,San Carlos de la Montaña,34177.21,694,Salaried,2024-05-25
+U000465,45,M,San Timoteo los altos,9574.71,757,Salaried,2024-11-11
+U000466,52,M,Nueva Omán,5603.75,593,Salaried,2025-02-27
+U000467,71,F,Nueva Ucrania,17396.23,682,Salaried,2024-03-12
+U000468,73,M,San Luis Miguel de la Montaña,7239.16,722,Salaried,2025-03-13
+U000469,47,M,San Fabiola los altos,15464.16,666,Unemployed,2024-10-10
+U000470,54,F,Nueva Perú,6196.98,718,Salaried,2024-08-28
+U000471,63,F,Nueva Liberia,19734.44,697,Salaried,2025-09-30
+U000472,43,M,San Alvaro los altos,40456.48,669,Retired,2024-09-17
+U000473,28,F,San Flavio los altos,5349.11,641,Self-Employed,2023-12-04
+U000474,41,M,San Ángel los bajos,12999.27,693,Salaried,2024-05-27
+U000475,24,M,Vieja Chad,11559.45,687,Salaried,2023-12-26
+U000476,43,M,San Patricio los bajos,6304.86,735,Salaried,2025-08-14
+U000477,37,F,Vieja Trinidad y Tabago,12717.18,725,Salaried,2024-11-27
+U000478,67,M,Nueva Barbados,16409.82,718,Salaried,2025-05-31
+U000479,58,M,San Alejandro los bajos,18804.67,715,Salaried,2024-04-26
+U000480,30,F,Nueva Australia,19646.09,737,Salaried,2024-07-24
+U000481,70,M,San Noelia los bajos,15031.64,728,Salaried,2025-08-16
+U000482,27,F,San Flavio de la Montaña,12659.44,733,Salaried,2025-06-29
+U000483,56,M,Vieja Kazajstán,8903.19,758,Self-Employed,2025-09-21
+U000484,59,M,Vieja Grecia,13041.67,635,Salaried,2024-02-26
+U000485,67,F,San Marco Antonio los bajos,14427.09,670,Salaried,2025-06-21
+U000486,54,F,San Judith los bajos,22123.29,673,Self-Employed,2024-04-15
+U000487,74,F,San Miriam los bajos,10221.92,621,Unemployed,2025-11-08
+U000488,58,F,San Armando los altos,10184.44,592,Salaried,2024-10-16
+U000489,22,F,Vieja Samoa,5164.99,696,Salaried,2025-08-21
+U000490,37,F,Vieja Irlanda,21407.15,706,Salaried,2024-02-09
+U000491,40,M,Vieja Suecia,7478.7,675,Salaried,2024-07-08
+U000492,46,M,San Marisela los altos,13330.88,639,Salaried,2025-06-01
+U000493,71,F,San Daniela los altos,32926.69,753,Salaried,2024-10-31
+U000494,73,M,San Marisela de la Montaña,11700.91,699,Self-Employed,2025-06-08
+U000495,50,F,San Sessa los bajos,15139.0,608,Salaried,2024-06-22
+U000496,53,M,Nueva Suriname,11518.31,660,Salaried,2025-03-31
+U000497,69,M,San José los altos,7324.85,680,Salaried,2025-08-05
+U000498,48,M,Nueva China,39285.54,738,Retired,2025-09-11
+U000499,46,M,San Aldo de la Montaña,9483.35,705,Self-Employed,2024-01-13
+U000500,71,F,Vieja Kenya,30934.06,753,Retired,2024-09-14
+U000501,23,M,Nueva Tailandia,13846.37,649,Salaried,2024-11-05
+U000502,63,F,San José Emilio los bajos,20311.33,717,Retired,2025-07-06
+U000503,51,M,Nueva Polonia,22859.36,723,Salaried,2024-09-02
+U000504,36,F,San Humberto los altos,25077.63,671,Salaried,2024-06-25
+U000505,39,M,Nueva Arabia Saudita,29449.62,706,Self-Employed,2025-06-15
+U000506,59,F,Vieja Papua Nueva Guinea,46404.72,698,Salaried,2024-09-17
+U000507,24,F,Vieja Georgia,37857.27,707,Salaried,2025-05-21
+U000508,64,M,San Ernesto los altos,9037.6,671,Salaried,2024-06-30
+U000509,55,M,San Elvira de la Montaña,11023.58,705,Retired,2024-03-06
+U000510,37,F,Vieja Cuba,18282.53,663,Salaried,2025-10-20
+U000511,63,M,San Asunción los altos,13165.92,780,Salaried,2025-09-08
+U000512,42,F,San Yeni los bajos,37666.48,726,Self-Employed,2025-05-26
+U000513,60,M,Vieja Honduras,13667.86,698,Self-Employed,2025-09-13
+U000514,45,F,Nueva Kenya,19304.83,650,Salaried,2024-12-21
+U000515,37,M,Nueva Emiratos Árabes Unidos,11448.04,613,Retired,2025-07-29
+U000516,39,F,Nueva Nueva Zelandia,16975.63,712,Salaried,2023-12-12
+U000517,26,M,San Perla los altos,9997.48,735,Salaried,2024-09-03
+U000518,72,M,San Pedro de la Montaña,6403.12,633,Salaried,2025-03-11
+U000519,52,M,Nueva Indonesia,15285.67,733,Self-Employed,2024-09-26
+U000520,74,M,San Olivia los bajos,36693.56,705,Salaried,2025-07-11
+U000521,27,M,San René de la Montaña,25519.76,687,Salaried,2024-02-27
+U000522,62,M,San Tomás de la Montaña,12045.23,728,Self-Employed,2024-11-05
+U000523,20,F,San Noemí los bajos,19759.58,616,Salaried,2024-02-29
+U000524,64,M,Nueva Marruecos,32400.34,769,Retired,2024-12-16
+U000525,57,F,Nueva Papua Nueva Guinea,9178.9,703,Self-Employed,2024-03-19
+U000526,68,F,San Daniel de la Montaña,17969.27,712,Salaried,2024-07-29
+U000527,33,F,Vieja Papua Nueva Guinea,9602.87,649,Retired,2025-10-17
+U000528,68,F,San Arcelia los bajos,13156.45,744,Retired,2024-04-22
+U000529,30,F,San Carmen los altos,18511.73,668,Self-Employed,2024-07-14
+U000530,54,F,Nueva Rumania,21226.79,584,Salaried,2025-02-15
+U000531,36,F,Nueva Sudán del Sur,26615.78,625,Salaried,2025-03-21
+U000532,44,M,San Ramón de la Montaña,10748.65,637,Self-Employed,2025-08-23
+U000533,69,M,Nueva Austria,6143.75,737,Unemployed,2025-04-03
+U000534,21,F,San Uriel de la Montaña,10090.8,684,Unemployed,2025-07-09
+U000535,53,M,San Serafín los altos,12988.86,708,Self-Employed,2023-12-15
+U000536,51,M,San Soledad los altos,13989.93,638,Salaried,2024-07-03
+U000537,66,M,San Maximiliano de la Montaña,24288.54,687,Salaried,2025-08-08
+U000538,75,M,San Héctor los bajos,5250.35,675,Self-Employed,2024-01-17
+U000539,23,M,Nueva Mauritania,32874.61,728,Self-Employed,2024-10-09
+U000540,74,F,San Marisol de la Montaña,10837.95,683,Retired,2024-08-12
+U000541,44,M,Vieja Ucrania,11015.06,766,Salaried,2024-07-27
+U000542,41,M,San Leonor de la Montaña,16800.46,704,Salaried,2025-07-04
+U000543,23,F,San Noelia los altos,24789.37,695,Salaried,2024-02-12
+U000544,38,M,San Fabiola los bajos,11436.61,672,Self-Employed,2024-02-25
+U000545,59,F,San María del Carmen de la Montaña,12797.94,690,Self-Employed,2024-03-10
+U000546,26,M,Nueva Guyana,20672.87,685,Salaried,2024-09-15
+U000547,71,F,San Felix de la Montaña,20735.12,703,Self-Employed,2025-08-14
+U000548,26,F,San Reynaldo los altos,14005.16,597,Salaried,2024-07-21
+U000549,18,M,Nueva Omán,23151.08,696,Salaried,2024-12-25
+U000550,31,M,San Modesto los bajos,24313.96,573,Salaried,2024-12-12
+U000551,64,F,Nueva Libia,46771.29,723,Salaried,2024-12-18
+U000552,36,M,San Fabiola de la Montaña,25975.52,652,Salaried,2025-02-17
+U000553,21,M,San Amanda de la Montaña,19296.22,637,Salaried,2024-06-27
+U000554,68,F,San Rubén los altos,9188.78,769,Salaried,2025-04-27
+U000555,71,F,San Gonzalo los altos,11915.44,706,Salaried,2023-11-28
+U000556,19,M,Vieja Chad,22517.33,701,Self-Employed,2025-10-07
+U000557,36,F,San Josefina los bajos,14621.54,697,Salaried,2024-09-01
+U000558,40,M,Vieja Bahamas,56503.02,724,Salaried,2025-02-06
+U000559,29,M,Vieja República Checa,15072.99,721,Salaried,2024-07-03
+U000560,41,M,Vieja Pakistán,25934.14,743,Retired,2024-11-05
+U000561,52,M,San Sofía los altos,19599.08,649,Salaried,2025-03-10
+U000562,48,M,Nueva Botswana,35598.5,663,Self-Employed,2024-09-22
+U000563,41,F,San Ivonne los altos,16019.81,656,Self-Employed,2025-11-20
+U000564,40,M,San Claudio de la Montaña,12855.37,696,Salaried,2025-03-03
+U000565,64,M,San Mónica de la Montaña,16200.77,715,Self-Employed,2023-12-27
+U000566,65,F,Nueva Tuvalu,35179.78,735,Salaried,2024-08-06
+U000567,40,F,San Norma los bajos,11539.21,720,Self-Employed,2024-03-16
+U000568,29,F,Vieja Santa Lucía,27273.81,642,Retired,2024-07-26
+U000569,48,M,Vieja Santo Tomé y Príncipe,19119.04,721,Self-Employed,2025-06-18
+U000570,22,F,San Rosalia los bajos,11175.31,727,Salaried,2024-12-20
+U000571,30,M,San Ramón los bajos,12209.46,682,Self-Employed,2024-11-24
+U000572,74,M,Vieja Islas Marshall,12042.01,699,Salaried,2025-04-28
+U000573,37,F,Vieja República Popular Democrática de Corea,6920.44,617,Retired,2024-07-17
+U000574,52,F,Vieja Ghana,34776.7,676,Salaried,2025-04-14
+U000575,66,M,Nueva República Popular Democrática de Corea,7369.94,604,Salaried,2024-11-29
+U000576,73,M,Vieja Chipre,9105.4,642,Unemployed,2025-08-21
+U000577,39,F,Nueva República Democrática Popular Lao,35782.32,745,Salaried,2025-05-19
+U000578,41,F,Nueva Angola,8840.6,769,Unemployed,2024-10-29
+U000579,65,F,San Lourdes de la Montaña,24078.13,693,Unemployed,2024-10-07
+U000580,42,F,Vieja Países Bajos,2982.02,765,Retired,2025-07-15
+U000581,49,F,San Anel los altos,5803.73,614,Salaried,2024-03-08
+U000582,69,F,Vieja Suecia,24674.91,806,Self-Employed,2024-11-27
+U000583,64,F,San Humberto de la Montaña,30655.39,735,Salaried,2024-11-13
+U000584,56,M,San Patricio los bajos,19088.72,731,Salaried,2025-04-29
+U000585,38,M,San Santiago los bajos,21064.77,701,Salaried,2024-04-19
+U000586,60,F,Vieja República de Corea,14221.65,691,Salaried,2024-07-10
+U000587,56,F,Vieja Guinea Ecuatorial,8498.3,675,Salaried,2025-05-22
+U000588,46,F,Vieja Iraq,4837.85,673,Salaried,2024-11-28
+U000589,64,F,San Rafaél los altos,7382.34,645,Self-Employed,2024-06-21
+U000590,45,F,San Carlos los altos,14882.43,743,Self-Employed,2025-04-30
+U000591,68,M,San Leonardo los bajos,23178.72,644,Salaried,2025-07-14
+U000592,58,F,Vieja Australia,7377.74,724,Salaried,2024-07-02
+U000593,69,M,Vieja México,7409.42,682,Retired,2025-04-14
+U000594,27,F,San Mauro de la Montaña,18583.54,643,Salaried,2024-04-26
+U000595,22,M,San Ramiro los altos,14231.67,621,Self-Employed,2024-06-19
+U000596,41,F,Nueva Santo Tomé y Príncipe,9313.12,692,Salaried,2025-06-19
+U000597,54,M,Nueva Azerbaiyán,5136.89,699,Self-Employed,2025-04-25
+U000598,61,F,Nueva Bahamas,13203.24,715,Retired,2024-02-07
+U000599,41,F,San Isabel los altos,15280.74,740,Self-Employed,2024-11-22
+U000600,54,M,Nueva Albania,14402.18,674,Salaried,2025-01-22
+U000601,43,F,Vieja Sudán,14376.91,707,Self-Employed,2025-11-17
+U000602,33,M,San Mateo los altos,13757.18,681,Salaried,2024-04-24
+U000603,29,F,San Inés los bajos,8767.48,646,Salaried,2025-04-06
+U000604,53,M,Nueva Sudáfrica,5758.53,752,Salaried,2025-02-09
+U000605,34,F,Nueva Cuba,6333.97,645,Salaried,2024-10-11
+U000606,57,F,Nueva Liechtenstein,8681.55,722,Self-Employed,2025-07-26
+U000607,49,M,San Eduardo los altos,11192.85,735,Salaried,2025-09-29
+U000608,72,M,San Alfonso de la Montaña,8918.7,706,Salaried,2024-07-10
+U000609,75,F,Vieja Guinea Bissau,8093.3,781,Retired,2024-11-08
+U000610,69,F,San Cecilia los altos,6551.45,703,Self-Employed,2024-11-19
+U000611,63,M,San Elisa de la Montaña,19540.92,717,Salaried,2024-08-04
+U000612,36,F,Vieja Sri Lanka,11954.07,674,Unemployed,2024-06-08
+U000613,63,M,Nueva Venezuela,13715.57,689,Self-Employed,2024-08-09
+U000614,50,M,San Raquel los altos,23821.11,787,Salaried,2025-07-02
+U000615,30,M,Nueva Santa Lucía,9561.55,619,Salaried,2025-09-16
+U000616,49,M,San Luis los altos,12670.49,790,Salaried,2024-08-02
+U000617,54,F,Vieja Suriname,8248.57,750,Salaried,2024-02-04
+U000618,53,M,Nueva Nicaragua,36556.73,690,Self-Employed,2024-07-30
+U000619,23,M,Nueva Georgia,18795.82,745,Salaried,2024-09-14
+U000620,63,F,Vieja Zimbabwe,10641.57,683,Salaried,2024-06-16
+U000621,67,F,San Hermelinda los altos,9423.78,652,Self-Employed,2025-06-05
+U000622,22,M,Vieja Sudán,9049.22,621,Retired,2024-08-27
+U000623,59,M,Nueva Suiza,13635.75,662,Salaried,2024-02-21
+U000624,61,F,San Homero de la Montaña,15371.52,633,Salaried,2024-10-01
+U000625,71,M,San Caridad los altos,16293.61,735,Self-Employed,2025-11-02
+U000626,26,F,San José Carlos los altos,4039.03,682,Salaried,2024-05-11
+U000627,73,M,Nueva Nicaragua,27906.12,666,Self-Employed,2024-03-19
+U000628,51,M,San Samuel los bajos,36444.41,728,Salaried,2024-10-09
+U000629,28,F,San Pablo los altos,8751.61,670,Retired,2025-08-24
+U000630,32,F,Nueva Tayikistán,18676.03,687,Retired,2025-06-30
+U000631,51,F,Vieja Polonia,18458.01,657,Self-Employed,2025-05-21
+U000632,34,M,San Araceli los altos,14788.67,625,Self-Employed,2024-02-17
+U000633,53,F,Nueva República Democrática Popular Lao,12497.26,652,Salaried,2025-01-11
+U000634,37,M,Nueva Islandia,8592.82,726,Salaried,2025-09-15
+U000635,28,M,San Camilo los altos,25713.88,714,Salaried,2024-04-29
+U000636,57,F,San Aurora los altos,6936.91,672,Self-Employed,2024-11-02
+U000637,54,M,Vieja Canadá,27663.21,710,Self-Employed,2024-12-24
+U000638,19,M,San María Eugenia los altos,53723.07,728,Salaried,2024-01-05
+U000639,59,F,San Zacarías los bajos,14991.36,682,Self-Employed,2025-06-05
+U000640,67,F,Vieja Gambia,14474.22,691,Self-Employed,2025-08-17
+U000641,19,F,Nueva República Federal Democrática de Nepal,20432.16,718,Unemployed,2024-01-17
+U000642,52,F,Vieja Jamaica,8336.56,631,Self-Employed,2025-05-19
+U000643,37,F,Nueva Belarús,4439.41,693,Salaried,2025-11-16
+U000644,69,F,San Alonso los bajos,6891.06,605,Salaried,2024-10-04
+U000645,22,M,Nueva Somalia,16867.55,777,Salaried,2025-06-10
+U000646,44,F,San José Luis los bajos,13311.15,718,Salaried,2024-11-04
+U000647,39,M,San José Manuél de la Montaña,14032.03,679,Salaried,2025-05-05
+U000648,63,F,Vieja Cabo Verde,23189.29,693,Self-Employed,2024-04-08
+U000649,73,F,San Óliver de la Montaña,15684.61,715,Retired,2025-06-09
+U000650,26,F,Nueva Antigua y Barbuda,8947.65,711,Salaried,2024-07-10
+U000651,24,F,San Zacarías los altos,12028.38,643,Salaried,2025-01-17
+U000652,25,F,San Óscar los bajos,18433.15,644,Salaried,2025-08-22
+U000653,27,M,Nueva Montenegro,13587.54,676,Salaried,2024-08-16
+U000654,42,F,Vieja Ecuador,25630.47,715,Salaried,2025-11-19
+U000655,73,M,Nueva Suecia,13160.61,732,Self-Employed,2024-10-12
+U000656,54,F,Nueva Eritrea,30764.74,730,Salaried,2024-01-13
+U000657,28,F,Nueva Micronesia,13442.97,624,Retired,2025-02-28
+U000658,47,F,Nueva Vietman,7051.05,668,Unemployed,2023-12-26
+U000659,49,M,San Marcela de la Montaña,9267.72,676,Salaried,2025-01-14
+U000660,43,F,Nueva Chile,13821.63,706,Retired,2024-12-17
+U000661,31,F,San Eugenia los altos,12806.41,697,Salaried,2025-02-11
+U000662,36,F,San Reynaldo los altos,13886.67,602,Salaried,2025-07-14
+U000663,71,F,San Eva los bajos,7603.76,687,Salaried,2025-10-02
+U000664,18,M,Nueva Malasia,6465.16,689,Salaried,2024-07-12
+U000665,74,F,San Anel los altos,33471.53,769,Self-Employed,2025-02-23
+U000666,66,F,Vieja República de Corea,11753.83,754,Salaried,2024-12-10
+U000667,43,M,Vieja Somalia,14606.19,672,Salaried,2025-04-26
+U000668,30,F,San Ofelia los bajos,9246.11,662,Salaried,2025-05-15
+U000669,22,F,San Lucas de la Montaña,10583.95,678,Salaried,2024-07-11
+U000670,66,F,San Dulce María los altos,14710.91,697,Self-Employed,2024-11-23
+U000671,57,M,Nueva Honduras,17364.15,743,Salaried,2025-09-18
+U000672,24,F,Vieja Bahrein,23617.25,626,Salaried,2025-01-31
+U000673,39,F,San Lorena los altos,2886.06,709,Self-Employed,2025-01-06
+U000674,30,F,Vieja Finlandia,5883.3,661,Salaried,2024-06-07
+U000675,20,M,Vieja Sri Lanka,6620.54,594,Salaried,2024-01-22
+U000676,39,F,San José Eduardo de la Montaña,18488.01,718,Salaried,2025-01-11
+U000677,27,M,Nueva Granada,9453.06,569,Salaried,2024-09-09
+U000678,57,F,Nueva Ecuador,9626.29,703,Salaried,2025-08-07
+U000679,57,F,Vieja Eslovaquia,5500.82,691,Salaried,2025-09-27
+U000680,50,F,San Hernán de la Montaña,13237.57,711,Self-Employed,2024-05-04
+U000681,37,F,Nueva Zambia,14353.49,643,Self-Employed,2025-06-29
+U000682,41,F,San Federico los altos,27390.26,691,Self-Employed,2025-03-05
+U000683,44,F,Vieja Filipinas,13142.64,647,Self-Employed,2025-01-23
+U000684,64,M,San Guillermina los bajos,10239.73,656,Salaried,2024-11-18
+U000685,34,M,San Homero los bajos,12042.92,747,Self-Employed,2024-08-27
+U000686,55,F,San Martha de la Montaña,5865.6,618,Salaried,2025-08-06
+U000687,58,F,San Indira de la Montaña,32296.11,702,Salaried,2024-09-04
+U000688,61,M,San Liliana de la Montaña,8942.37,731,Salaried,2025-01-31
+U000689,62,M,Nueva Angola,9289.41,763,Salaried,2024-06-11
+U000690,46,F,San Gustavo de la Montaña,20065.47,673,Salaried,2024-04-22
+U000691,44,M,San Estela los bajos,48746.32,696,Salaried,2025-02-06
+U000692,67,F,Vieja República Centroafricana,20853.09,716,Unemployed,2025-04-13
+U000693,65,M,San Francisco los bajos,29174.34,774,Self-Employed,2025-06-06
+U000694,51,M,San María Luisa de la Montaña,13618.75,658,Salaried,2025-06-13
+U000695,60,F,San Darío de la Montaña,17605.79,670,Salaried,2025-06-03
+U000696,38,M,San Dulce María los altos,44713.57,719,Salaried,2025-04-03
+U000697,52,F,Nueva Belice,10730.09,694,Salaried,2025-08-18
+U000698,61,F,Nueva Malasia,5953.44,647,Self-Employed,2024-03-07
+U000699,30,M,Nueva Turquía,27453.48,666,Salaried,2024-03-18
+U000700,37,M,Nueva Pakistán,7128.48,697,Retired,2024-11-10
+U000701,37,F,San Ana María los altos,27212.25,724,Self-Employed,2025-03-31
+U000702,62,F,San Victoria los bajos,24285.35,675,Salaried,2023-12-04
+U000703,40,F,Vieja Andorra,5692.55,735,Salaried,2023-12-04
+U000704,54,F,San Omar los bajos,11008.16,677,Unemployed,2023-12-05
+U000705,43,F,San Diego de la Montaña,29641.08,723,Retired,2025-11-04
+U000706,69,M,Nueva Filipinas,17562.7,788,Salaried,2024-04-19
+U000707,36,M,San Joaquín los bajos,9080.54,714,Salaried,2025-07-31
+U000708,46,F,San Arcelia los bajos,13824.64,697,Self-Employed,2024-10-02
+U000709,31,M,San Raúl de la Montaña,33425.72,719,Self-Employed,2025-05-16
+U000710,35,F,Vieja Timor-Leste,18452.92,728,Salaried,2025-08-26
+U000711,57,M,Nueva Bosnia y Herzegovina,10732.46,655,Salaried,2024-10-01
+U000712,60,M,San José María los altos,7137.48,608,Self-Employed,2024-11-25
+U000713,21,M,Nueva Túnez,45877.23,662,Salaried,2024-04-03
+U000714,63,F,Vieja Mauricio,11698.87,682,Salaried,2025-04-05
+U000715,67,M,San Raúl de la Montaña,16065.73,732,Salaried,2025-10-17
+U000716,53,M,Nueva Eslovenia,22388.08,675,Salaried,2025-10-22
+U000717,74,F,San Genaro de la Montaña,12085.08,710,Salaried,2025-11-08
+U000718,30,F,Vieja República Árabe Siria,11507.86,740,Salaried,2025-02-01
+U000719,59,M,Nueva Irán,17936.36,726,Retired,2023-12-04
+U000720,23,M,Nueva Zimbabwe,19885.16,728,Salaried,2025-08-20
+U000721,64,M,San Araceli los bajos,14892.5,645,Retired,2024-03-27
+U000722,29,F,Vieja Tailandia,16980.36,655,Unemployed,2025-10-18
+U000723,29,M,San Juan Carlos los altos,9728.65,697,Retired,2024-03-09
+U000724,43,F,Vieja Bahamas,28084.41,700,Salaried,2024-02-05
+U000725,65,F,San Esther de la Montaña,16079.49,766,Unemployed,2024-08-12
+U000726,18,F,San Itzel de la Montaña,15435.91,778,Salaried,2025-03-28
+U000727,24,F,San María del Carmen los bajos,18756.69,610,Salaried,2024-05-17
+U000728,59,F,San Perla los bajos,20994.27,715,Unemployed,2024-10-22
+U000729,26,F,Vieja Bhután,28965.24,718,Salaried,2025-07-13
+U000730,69,M,San Fernando los altos,12294.74,647,Salaried,2024-01-18
+U000731,64,F,Vieja Comoras,11785.04,659,Self-Employed,2024-09-12
+U000732,63,M,Vieja Iraq,9430.33,714,Salaried,2024-08-28
+U000733,39,F,Nueva Albania,36386.12,721,Salaried,2024-07-18
+U000734,66,M,San Jorge Luis los bajos,6518.96,707,Salaried,2024-02-09
+U000735,72,F,Nueva Dominicana,27391.25,688,Self-Employed,2024-10-21
+U000736,50,F,San Porfirio los altos,12327.52,687,Salaried,2024-12-24
+U000737,60,M,San Benjamín de la Montaña,8342.02,714,Salaried,2024-01-30
+U000738,26,F,San Perla de la Montaña,12424.57,692,Salaried,2025-02-27
+U000739,33,M,San Judith de la Montaña,7844.0,656,Salaried,2024-07-05
+U000740,33,F,San Julia de la Montaña,20607.88,672,Self-Employed,2025-06-07
+U000741,39,F,Nueva Timor-Leste,37653.39,691,Salaried,2024-09-12
+U000742,54,M,Nueva Granada,15287.81,729,Salaried,2024-07-12
+U000743,41,M,San Miguel de la Montaña,5704.33,605,Salaried,2024-01-10
+U000744,25,F,Vieja Guatemala,5348.69,718,Salaried,2024-10-14
+U000745,43,F,San Maximiliano de la Montaña,9593.92,783,Self-Employed,2024-08-28
+U000746,58,F,San Fernando los altos,9522.87,695,Salaried,2025-03-21
+U000747,32,M,San Rosario los altos,33700.43,779,Retired,2024-04-21
+U000748,48,M,San Bernabé de la Montaña,46023.26,768,Salaried,2024-07-15
+U000749,56,F,Vieja Islas Salomón,24697.01,726,Salaried,2025-09-05
+U000750,53,F,San Isaac los bajos,21311.81,675,Self-Employed,2024-08-07
+U000751,69,M,San Uriel los altos,8177.0,692,Self-Employed,2024-03-06
+U000752,61,M,San Inés los altos,12062.89,674,Salaried,2025-05-15
+U000753,51,F,Vieja Irán,20288.97,734,Salaried,2024-04-07
+U000754,54,M,San Indira los bajos,14087.51,750,Salaried,2025-06-14
+U000755,53,M,San René de la Montaña,6734.42,675,Salaried,2024-08-01
+U000756,27,M,San Gilberto los bajos,8689.81,597,Salaried,2024-08-31
+U000757,51,F,Nueva Rumania,12713.14,683,Salaried,2025-01-18
+U000758,31,F,Nueva Uzbekistán,33125.87,723,Salaried,2024-11-14
+U000759,50,F,Vieja Guyana,7226.34,756,Self-Employed,2025-08-28
+U000760,47,M,Vieja Swazilandia,27795.24,724,Salaried,2024-12-13
+U000761,47,M,Vieja Filipinas,11662.22,646,Salaried,2024-06-05
+U000762,61,F,Vieja Lesotho,10685.85,734,Self-Employed,2024-01-18
+U000763,43,F,San Rufino los bajos,41388.23,774,Self-Employed,2025-02-16
+U000764,65,M,San Oswaldo los altos,9963.57,647,Salaried,2025-11-08
+U000765,20,F,San Pamela de la Montaña,14538.15,603,Salaried,2025-07-28
+U000766,22,M,San Omar los altos,16218.38,671,Retired,2025-03-31
+U000767,22,F,Nueva Francia,10100.88,607,Salaried,2025-04-15
+U000768,44,M,San Daniela los altos,18181.5,668,Self-Employed,2025-03-11
+U000769,67,F,Vieja Zimbabwe,6621.32,575,Salaried,2024-08-05
+U000770,75,F,San Bernabé de la Montaña,13140.98,771,Salaried,2024-02-06
+U000771,42,F,San Estela los altos,36197.87,688,Salaried,2025-06-24
+U000772,60,M,Vieja Kuwait,9308.4,708,Self-Employed,2024-09-20
+U000773,40,M,San Rolando los altos,7339.08,689,Salaried,2024-12-14
+U000774,52,F,Vieja Arabia Saudita,21155.35,746,Salaried,2024-11-30
+U000775,64,M,Vieja Malawi,12580.55,686,Self-Employed,2025-11-06
+U000776,66,M,Nueva Uzbekistán,7888.89,657,Retired,2024-03-11
+U000777,47,F,San Hugo los bajos,11662.25,699,Salaried,2024-11-09
+U000778,70,M,Vieja Japón,23113.01,675,Salaried,2024-11-25
+U000779,40,M,Vieja Uganda,32715.79,691,Salaried,2025-05-16
+U000780,74,M,San Indira de la Montaña,13189.54,670,Salaried,2024-07-12
+U000781,60,F,Nueva Antigua y Barbuda,3119.59,718,Self-Employed,2025-09-11
+U000782,74,M,San Vicente de la Montaña,20787.48,696,Salaried,2025-04-30
+U000783,22,M,Nueva Papua Nueva Guinea,13907.65,695,Salaried,2024-04-05
+U000784,46,M,Vieja República de Macedonia del Norte,5231.6,657,Salaried,2024-10-18
+U000785,20,F,San Esther los bajos,21516.14,631,Salaried,2025-03-25
+U000786,52,M,Nueva Singapur,15932.79,637,Self-Employed,2025-04-15
+U000787,67,M,San Leonardo de la Montaña,17674.14,699,Salaried,2025-06-16
+U000788,36,M,Vieja Rumania,5069.11,719,Self-Employed,2024-10-20
+U000789,64,F,San Abigail los altos,8597.66,658,Salaried,2024-05-06
+U000790,67,F,Vieja Zimbabwe,15068.2,744,Salaried,2025-05-21
+U000791,74,M,Nueva Qatar,7262.7,696,Retired,2024-04-15
+U000792,51,M,San Irma de la Montaña,17279.74,720,Salaried,2024-11-11
+U000793,35,M,Vieja Suriname,14851.63,667,Salaried,2025-09-22
+U000794,55,M,San Óliver los altos,8131.05,689,Self-Employed,2024-07-22
+U000795,45,F,San Santiago los bajos,7021.39,562,Salaried,2025-02-19
+U000796,40,F,Vieja Jordania,17360.21,723,Self-Employed,2025-09-08
+U000797,38,F,San Serafín de la Montaña,3236.48,631,Salaried,2025-08-15
+U000798,37,F,San Sessa los altos,19370.23,770,Salaried,2024-01-26
+U000799,52,F,Vieja Cabo Verde,13527.45,660,Salaried,2024-05-25
+U000800,32,F,San Camilo de la Montaña,11971.24,732,Unemployed,2024-09-06
+U000801,27,F,Vieja Maldivas,9067.22,640,Retired,2025-02-27
+U000802,53,F,Vieja Mali,10000.14,648,Retired,2024-04-14
+U000803,53,M,San Teresa los altos,14380.12,755,Salaried,2025-05-13
+U000804,34,M,Nueva Noruega,16217.52,673,Salaried,2024-07-03
+U000805,23,F,Nueva Irán,11213.94,610,Self-Employed,2025-09-05
+U000806,23,M,San Silvano de la Montaña,22694.23,681,Salaried,2025-09-24
+U000807,42,M,San Abril los bajos,11988.61,810,Unemployed,2024-03-07
+U000808,30,M,Vieja República de Macedonia del Norte,15982.53,650,Salaried,2024-12-18
+U000809,73,F,San Lucas los altos,10344.24,742,Salaried,2024-12-07
+U000810,18,M,San María los bajos,14299.25,615,Retired,2024-03-30
+U000811,65,M,Nueva Estados Unidos de América,23191.41,678,Self-Employed,2024-07-05
+U000812,66,F,Vieja Estonia,41108.85,767,Retired,2025-01-12
+U000813,62,M,San Darío los bajos,10214.94,742,Salaried,2025-02-03
+U000814,33,F,San Paulina los altos,13914.87,714,Self-Employed,2024-02-17
+U000815,42,F,Vieja República Árabe Siria,17869.3,655,Salaried,2025-08-22
+U000816,40,F,San Patricia de la Montaña,9080.37,720,Salaried,2025-07-04
+U000817,50,F,San Patricio de la Montaña,10928.56,669,Salaried,2024-10-17
+U000818,69,F,Nueva Honduras,7532.08,708,Self-Employed,2025-10-01
+U000819,38,M,Vieja Ghana,46051.47,672,Salaried,2024-08-18
+U000820,44,M,Vieja Cabo Verde,13555.28,742,Salaried,2025-07-16
+U000821,32,M,Nueva Venezuela,12736.35,696,Salaried,2025-02-20
+U000822,53,F,San Santiago los altos,7062.57,700,Salaried,2024-10-19
+U000823,30,F,Nueva Eritrea,11940.76,716,Salaried,2025-08-14
+U000824,54,M,Nueva República Democrática del Congo,27239.72,807,Salaried,2024-08-20
+U000825,59,F,San Rubén los altos,18916.31,711,Salaried,2024-03-31
+U000826,70,F,San Guillermo los bajos,15012.38,685,Retired,2025-02-08
+U000827,59,F,San Noelia los altos,16368.11,684,Salaried,2025-08-16
+U000828,64,F,Nueva Zimbabwe,14780.69,749,Salaried,2025-07-24
+U000829,64,F,San Ana María los bajos,7303.25,734,Salaried,2025-09-25
+U000830,74,M,Nueva Francia,29444.7,711,Salaried,2024-03-14
+U000831,71,M,San Fernando los altos,3740.17,664,Retired,2024-09-22
+U000832,60,M,San Claudia los altos,29091.37,708,Self-Employed,2025-03-27
+U000833,44,M,San Soledad los bajos,7335.04,659,Self-Employed,2024-09-08
+U000834,32,M,San Antonio los altos,22122.98,709,Self-Employed,2025-07-31
+U000835,18,M,Vieja Panamá,11575.44,655,Salaried,2025-06-26
+U000836,41,M,San José Carlos los bajos,10561.23,644,Self-Employed,2024-12-05
+U000837,60,F,San Roberto de la Montaña,35214.93,702,Self-Employed,2025-09-26
+U000838,19,M,Vieja Sierra Leona,27730.69,748,Salaried,2025-04-20
+U000839,44,M,San Andrea los altos,24318.35,679,Salaried,2024-09-25
+U000840,64,F,Vieja Eslovenia,17021.59,698,Salaried,2024-12-10
+U000841,36,M,San Irene los bajos,7768.08,688,Salaried,2024-08-10
+U000842,62,F,Vieja Italia,6585.17,735,Self-Employed,2025-10-16
+U000843,29,M,Nueva Brasil,10109.49,682,Retired,2025-03-22
+U000844,51,M,San Adriana de la Montaña,15834.92,680,Salaried,2025-11-12
+U000845,57,F,Vieja Mongolia,18996.62,678,Self-Employed,2023-11-22
+U000846,35,F,San Eloy los altos,22533.95,636,Salaried,2025-10-28
+U000847,43,F,Vieja Congo,14412.16,763,Salaried,2025-10-01
+U000848,62,M,San Aurelio los altos,7330.52,661,Salaried,2024-08-27
+U000849,70,M,San Armando los bajos,18184.86,710,Self-Employed,2025-04-21
+U000850,72,M,Nueva Liechtenstein,16487.83,722,Salaried,2025-03-21
+U000851,42,F,San Eugenia los bajos,19552.0,734,Salaried,2025-04-14
+U000852,21,M,Nueva Afganistán,17083.89,667,Self-Employed,2024-05-05
+U000853,23,F,San Araceli de la Montaña,20001.13,757,Self-Employed,2025-02-25
+U000854,59,F,Vieja Alemania,12337.76,652,Salaried,2023-11-28
+U000855,72,M,San Carla los bajos,25958.34,707,Unemployed,2025-05-14
+U000856,20,M,Vieja Bélgica,3627.86,697,Salaried,2024-05-17
+U000857,73,F,San Augusto los altos,9689.55,692,Salaried,2025-08-09
+U000858,22,F,Nueva Irán,16304.37,684,Unemployed,2024-09-02
+U000859,54,M,San Citlali los bajos,20448.63,680,Salaried,2025-07-14
+U000860,72,F,Nueva Belarús,18176.11,693,Salaried,2025-01-07
+U000861,31,M,Nueva Mauritania,20812.03,710,Self-Employed,2024-08-20
+U000862,63,F,Nueva Malasia,7621.56,732,Retired,2025-03-14
+U000863,37,M,San Esteban de la Montaña,9685.86,710,Salaried,2025-10-18
+U000864,54,F,Nueva Zimbabwe,16653.45,767,Self-Employed,2024-02-25
+U000865,52,F,San Jerónimo los bajos,11683.35,673,Salaried,2024-07-23
+U000866,65,M,Nueva Guatemala,13204.97,683,Self-Employed,2025-04-05
+U000867,62,M,Nueva República Checa,21589.56,637,Salaried,2025-03-02
+U000868,40,M,San Aldonza los altos,7099.58,634,Salaried,2025-10-02
+U000869,32,M,San Emiliano los altos,23627.93,758,Salaried,2025-03-07
+U000870,67,F,Vieja Haití,12548.17,689,Retired,2025-04-06
+U000871,38,M,Nueva Nueva Zelandia,13933.22,729,Self-Employed,2024-09-16
+U000872,68,F,Nueva Omán,7658.63,701,Salaried,2025-03-31
+U000873,40,F,Nueva Kenya,23983.43,714,Salaried,2025-11-16
+U000874,61,F,San César los bajos,14969.18,735,Salaried,2025-09-20
+U000875,57,F,San Josefina los altos,2638.75,708,Self-Employed,2025-05-05
+U000876,63,M,Vieja Bélgica,9023.2,617,Salaried,2023-12-04
+U000877,27,F,Nueva Ghana,18155.37,736,Self-Employed,2024-05-07
+U000878,58,M,Nueva Liechtenstein,12302.17,729,Self-Employed,2024-12-19
+U000879,38,F,San Soledad los altos,35149.55,756,Salaried,2024-12-15
+U000880,18,F,San Luisa los altos,35738.32,724,Salaried,2024-09-29
+U000881,66,F,Nueva Guinea,13978.28,632,Salaried,2024-01-25
+U000882,23,M,San Arcelia los altos,11526.02,639,Salaried,2025-11-06
+U000883,53,F,Nueva Qatar,49146.73,718,Salaried,2024-08-01
+U000884,23,F,San Rodrigo los altos,14384.74,697,Salaried,2025-07-06
+U000885,56,F,Vieja Trinidad y Tabago,13713.85,759,Unemployed,2024-10-26
+U000886,18,F,Nueva Finlandia,9194.96,675,Salaried,2024-01-27
+U000887,67,M,San Camilo los bajos,8557.11,639,Self-Employed,2025-03-11
+U000888,53,M,Vieja Suiza,9255.18,684,Salaried,2025-06-20
+U000889,28,F,Nueva Andorra,10325.98,646,Salaried,2025-05-24
+U000890,35,F,Nueva Costa Rica,5745.71,669,Salaried,2024-12-11
+U000891,27,M,San Octavio los altos,5416.3,699,Salaried,2025-07-22
+U000892,35,F,San Daniela los bajos,14037.17,623,Salaried,2024-02-28
+U000893,68,M,San Caridad de la Montaña,11097.49,665,Salaried,2024-08-08
+U000894,33,F,San Georgina los altos,16179.57,736,Salaried,2024-01-10
+U000895,30,F,San Reynaldo los altos,4336.82,673,Salaried,2024-01-20
+U000896,37,M,San María Eugenia los altos,12135.86,707,Retired,2024-08-27
+U000897,39,F,Vieja República Democrática del Congo,15182.79,654,Self-Employed,2024-03-30
+U000898,39,F,San Cristina los bajos,11032.13,648,Salaried,2025-07-14
+U000899,70,M,Nueva Etiopía,25478.86,711,Salaried,2025-06-19
+U000900,56,M,Nueva Andorra,41802.62,717,Salaried,2024-05-29
+U000901,29,F,Vieja Kirguistán,8733.8,612,Retired,2024-09-14
+U000902,36,F,Nueva Armenia,4528.36,609,Retired,2025-01-24
+U000903,68,M,San Esparta los bajos,15682.11,720,Salaried,2024-06-01
+U000904,35,F,San Indira los bajos,5173.4,708,Salaried,2025-08-24
+U000905,54,M,Vieja Cabo Verde,9998.23,692,Salaried,2024-12-15
+U000906,52,M,Nueva Estonia,35148.33,747,Self-Employed,2025-08-07
+U000907,53,M,Vieja Belarús,11371.68,652,Retired,2025-10-03
+U000908,47,M,San Guillermina los bajos,3673.54,648,Salaried,2024-08-02
+U000909,36,M,Vieja Alemania,11770.15,640,Self-Employed,2024-09-03
+U000910,68,F,Vieja República de Moldova,12347.96,699,Self-Employed,2025-07-23
+U000911,26,F,San Silvia de la Montaña,11673.61,648,Salaried,2024-11-16
+U000912,60,M,San Rosa los bajos,14782.4,712,Self-Employed,2025-07-14
+U000913,68,F,Nueva Colombia,6944.88,747,Salaried,2023-11-26
+U000914,56,F,San Alberto de la Montaña,12592.38,691,Salaried,2025-01-15
+U000915,52,F,San Teresa los altos,20433.45,705,Salaried,2025-10-03
+U000916,68,F,Vieja Afganistán,23668.07,719,Self-Employed,2025-07-03
+U000917,69,M,San Homero de la Montaña,9251.47,708,Salaried,2024-04-29
+U000918,33,F,Vieja Noruega,6726.19,677,Salaried,2024-01-07
+U000919,57,M,Vieja Bosnia y Herzegovina,13096.0,683,Salaried,2023-12-26
+U000920,59,F,Vieja Túnez,12368.12,616,Retired,2025-10-17
+U000921,39,F,San María José los altos,9611.98,682,Salaried,2024-01-26
+U000922,24,F,Nueva Singapur,14704.57,635,Salaried,2025-08-19
+U000923,65,M,San Antonio los altos,28550.36,676,Salaried,2025-02-05
+U000924,43,F,Vieja Suecia,23900.97,712,Self-Employed,2024-03-02
+U000925,55,M,Vieja Georgia,9065.79,757,Salaried,2025-09-12
+U000926,19,F,San Laura los altos,6527.75,702,Salaried,2025-08-29
+U000927,44,M,San Ilse los bajos,24351.52,669,Salaried,2024-06-20
+U000928,64,M,Nueva Emiratos Árabes Unidos,30806.44,702,Salaried,2024-03-06
+U000929,39,F,Nueva Bulgaria,15886.36,695,Self-Employed,2024-03-28
+U000930,51,F,San Martha los bajos,12325.37,720,Salaried,2024-10-02
+U000931,24,F,Vieja Eslovaquia,21506.13,613,Self-Employed,2024-11-07
+U000932,46,F,San Marisol los bajos,29219.87,635,Salaried,2025-09-14
+U000933,20,M,Nueva Congo,24823.04,729,Salaried,2025-08-10
+U000934,39,M,San Salvador de la Montaña,6942.52,660,Self-Employed,2024-05-07
+U000935,28,M,San Concepción de la Montaña,6881.4,662,Salaried,2025-05-27
+U000936,53,M,Vieja Liechtenstein,11105.32,718,Salaried,2024-12-24
+U000937,45,F,Vieja Georgia,29324.69,757,Salaried,2025-08-19
+U000938,43,M,Nueva Luxemburgo,9534.76,672,Salaried,2025-09-15
+U000939,60,F,San Pilar los altos,4865.56,652,Salaried,2025-01-22
+U000940,65,M,Nueva Mozambique,23835.01,770,Salaried,2024-02-09
+U000941,45,F,Nueva Andorra,6370.23,655,Salaried,2024-01-08
+U000942,31,M,Nueva El Salvador,13149.73,689,Salaried,2025-08-22
+U000943,63,M,San José Emilio los altos,8219.28,706,Salaried,2025-03-25
+U000944,69,M,Vieja Belice,10053.7,693,Salaried,2023-12-08
+U000945,30,F,Nueva Sri Lanka,18541.57,683,Salaried,2024-10-31
+U000946,60,F,Nueva Islas Marshall,10282.19,685,Salaried,2024-02-25
+U000947,58,F,Vieja Azerbaiyán,12669.87,676,Salaried,2024-03-31
+U000948,57,F,San Leonardo los bajos,11438.3,753,Salaried,2023-12-14
+U000949,40,F,San Luis de la Montaña,18705.1,676,Self-Employed,2024-08-22
+U000950,57,M,Nueva Guatemala,20295.87,685,Self-Employed,2024-06-26
+U000951,63,F,San Conchita de la Montaña,27007.63,723,Retired,2025-03-12
+U000952,55,M,Vieja Omán,12526.71,707,Self-Employed,2024-10-07
+U000953,38,M,San Anel de la Montaña,5205.52,629,Salaried,2024-06-26
+U000954,25,M,San Citlali los bajos,6526.62,674,Salaried,2024-04-24
+U000955,27,F,Nueva Letonia,37779.01,790,Salaried,2025-07-21
+U000956,26,F,San Mauro los altos,19591.1,702,Salaried,2025-07-20
+U000957,49,M,San Jaime los altos,4534.03,657,Salaried,2024-12-16
+U000958,49,F,San Julia los bajos,8327.59,657,Salaried,2024-04-09
+U000959,38,F,Vieja Rwanda,12077.67,662,Self-Employed,2024-05-10
+U000960,73,F,Vieja Bahrein,4074.16,720,Retired,2025-08-11
+U000961,49,M,San Olga los bajos,7018.85,691,Salaried,2025-07-09
+U000962,42,F,Nueva Brasil,46371.93,680,Salaried,2024-06-01
+U000963,49,F,Vieja Portugal,2927.28,665,Self-Employed,2025-08-17
+U000964,46,F,Nueva República Dominicana,25863.18,777,Salaried,2025-09-09
+U000965,54,M,San Joaquín de la Montaña,6388.6,703,Self-Employed,2024-04-06
+U000966,32,F,Vieja Venezuela,10105.28,671,Salaried,2025-05-16
+U000967,32,F,San Rosa de la Montaña,65290.77,671,Salaried,2025-05-21
+U000968,47,F,San Raquel los altos,15556.65,707,Salaried,2024-03-11
+U000969,25,M,Vieja Reino Unido de Gran Bretaña e Irlanda del Norte,25628.79,692,Salaried,2024-07-19
+U000970,52,F,Vieja Armenia,16071.94,676,Salaried,2024-01-31
+U000971,66,M,Nueva Samoa,15700.94,684,Self-Employed,2024-05-09
+U000972,46,M,Vieja Afganistán,19398.35,677,Retired,2024-08-05
+U000973,24,M,Nueva Italia,16751.79,677,Salaried,2025-05-31
+U000974,20,F,Vieja Bangladesh,26255.48,684,Salaried,2023-12-09
+U000975,73,M,Nueva Burkina Faso,4610.91,741,Salaried,2025-09-09
+U000976,25,M,San Antonia los bajos,7758.63,644,Salaried,2025-05-22
+U000977,65,F,San Rodrigo de la Montaña,9345.06,746,Unemployed,2024-08-09
+U000978,57,F,San Irene de la Montaña,3709.29,807,Salaried,2024-03-23
+U000979,26,M,San Timoteo los bajos,25175.69,697,Self-Employed,2025-04-09
+U000980,69,M,San Delia los altos,12926.87,708,Salaried,2025-01-31
+U000981,52,F,San Esparta los altos,18263.75,720,Salaried,2025-02-21
+U000982,28,F,Vieja India,18645.55,686,Retired,2025-06-14
+U000983,36,F,San Carolina de la Montaña,11867.95,673,Salaried,2025-06-10
+U000984,72,M,Vieja República Democrática del Congo,11885.27,743,Salaried,2023-12-17
+U000985,66,F,Vieja Santa Lucía,19075.0,584,Retired,2024-05-11
+U000986,35,M,Vieja China,19802.04,695,Self-Employed,2024-08-05
+U000987,26,M,Nueva Jamaica,13210.6,660,Salaried,2024-07-27
+U000988,38,M,Nueva Turquía,26224.98,733,Self-Employed,2025-04-25
+U000989,61,F,San Marisela de la Montaña,8402.41,705,Salaried,2024-06-14
+U000990,54,F,Nueva Tonga,7457.73,629,Self-Employed,2024-01-13
+U000991,42,F,San Francisco de la Montaña,9172.54,714,Salaried,2025-06-03
+U000992,68,M,Nueva Líbano,23667.9,728,Salaried,2024-10-27
+U000993,65,F,San Daniela los bajos,20641.47,723,Self-Employed,2024-12-08
+U000994,74,F,San Jerónimo los altos,9091.64,713,Salaried,2024-09-08
+U000995,49,F,Vieja República Dominicana,21595.62,726,Salaried,2025-04-10
+U000996,73,M,Nueva Mónaco,27264.7,742,Self-Employed,2024-01-18
+U000997,47,F,Vieja Antigua y Barbuda,16495.93,732,Unemployed,2024-07-26
+U000998,68,F,San Bernardo de la Montaña,13148.82,661,Salaried,2024-08-13
+U000999,45,M,Vieja Costa Rica,12114.52,654,Salaried,2025-06-12
+U001000,38,F,Nueva Israel,8909.67,672,Salaried,2025-02-25
+U001001,54,M,San Alta  Gracia los bajos,8304.46,672,Salaried,2025-04-12
+U001002,49,F,Vieja Congo,4289.1,687,Unemployed,2024-01-02
+U001003,66,M,Vieja Eritrea,13369.39,663,Salaried,2024-04-17
+U001004,58,F,San Perla los altos,19841.83,736,Salaried,2025-11-09
+U001005,72,M,San Virginia los bajos,5092.19,660,Salaried,2024-07-09
+U001006,18,F,Nueva Azerbaiyán,8421.26,629,Salaried,2024-09-22
+U001007,62,M,San Cristian de la Montaña,21975.53,695,Unemployed,2024-08-28
+U001008,37,M,Vieja Bolivia,11399.12,599,Unemployed,2024-07-07
+U001009,74,F,San Elvira de la Montaña,19560.17,656,Salaried,2023-12-11
+U001010,41,F,Nueva Singapur,13848.88,695,Salaried,2024-07-05
+U001011,60,M,Vieja Burundi,30224.11,657,Salaried,2024-07-18
+U001012,58,F,San Mariana los bajos,2182.64,688,Self-Employed,2025-10-17
+U001013,66,M,San Aurora los altos,39352.18,771,Salaried,2025-01-17
+U001014,23,M,San Dulce María los bajos,15150.6,656,Salaried,2025-10-09
+U001015,48,M,San José Eduardo de la Montaña,21682.78,656,Salaried,2024-11-02
+U001016,32,F,Vieja Mauritania,17779.74,703,Salaried,2024-11-17
+U001017,62,F,San Espartaco los bajos,25238.5,816,Self-Employed,2025-02-02
+U001018,73,F,Nueva Zimbabwe,16906.43,683,Self-Employed,2025-05-15
+U001019,48,M,Nueva Suriname,13156.29,616,Salaried,2024-08-15
+U001020,23,M,San Rolando de la Montaña,8805.86,653,Salaried,2025-01-24
+U001021,41,F,Vieja Paraguay,9755.11,686,Salaried,2024-10-12
+U001022,67,M,San Renato de la Montaña,8156.32,736,Self-Employed,2024-11-25
+U001023,61,M,San Arcelia los bajos,13361.39,693,Salaried,2025-10-23
+U001024,54,M,Nueva Cabo Verde,10973.77,694,Self-Employed,2025-07-02
+U001025,28,F,San Débora de la Montaña,21917.9,651,Salaried,2024-05-04
+U001026,31,M,Nueva Australia,9001.35,662,Retired,2024-10-15
+U001027,57,F,Vieja Emiratos Árabes Unidos,5957.92,651,Unemployed,2025-08-21
+U001028,23,M,Vieja Iraq,10039.35,706,Salaried,2025-10-29
+U001029,25,F,Nueva Liberia,15639.21,685,Salaried,2025-01-27
+U001030,45,F,San Pedro los bajos,22259.83,689,Self-Employed,2025-09-17
+U001031,33,F,San Nicolás los bajos,16886.65,679,Self-Employed,2025-11-03
+U001032,33,F,Vieja Burkina Faso,15665.52,658,Self-Employed,2024-10-08
+U001033,62,M,Nueva República Democrática del Congo,3092.42,678,Self-Employed,2025-02-20
+U001034,60,F,Nueva República de Moldova,31371.3,748,Salaried,2025-07-19
+U001035,56,M,Vieja Qatar,23842.82,751,Self-Employed,2025-10-05
+U001036,36,M,San Lilia los bajos,14089.63,689,Self-Employed,2024-09-14
+U001037,68,M,San Reina los altos,9222.57,680,Salaried,2024-11-23
+U001038,25,M,Nueva Guatemala,19330.95,729,Salaried,2024-09-29
+U001039,56,M,Vieja Armenia,12287.43,672,Salaried,2024-09-24
+U001040,18,F,San Eva de la Montaña,13363.96,696,Retired,2025-06-23
+U001041,26,F,San Gabriel los bajos,5617.75,576,Unemployed,2023-12-07
+U001042,54,F,San Hernán los bajos,9601.53,637,Salaried,2024-06-26
+U001043,61,M,San Berta de la Montaña,9848.91,684,Self-Employed,2024-03-05
+U001044,67,M,San Margarita los bajos,10178.68,751,Salaried,2024-06-18
+U001045,22,M,San Salma los altos,16253.23,689,Salaried,2024-01-30
+U001046,20,M,Vieja Eslovenia,19405.74,633,Retired,2025-10-31
+U001047,43,F,San Mercedes los altos,24921.02,693,Self-Employed,2025-09-25
+U001048,50,F,San Anabel los altos,19976.03,652,Salaried,2025-07-28
+U001049,43,M,Nueva Indonesia,5259.26,709,Self-Employed,2025-05-26
+U001050,52,M,San Celia los altos,16744.84,656,Salaried,2025-10-04
+U001051,37,M,Nueva Egipto,7928.37,721,Salaried,2025-10-01
+U001052,31,M,Nueva Francia,6544.32,737,Salaried,2023-12-17
+U001053,43,M,San Amador los bajos,7782.46,704,Salaried,2025-05-22
+U001054,45,M,Vieja Kiribati,10969.01,707,Salaried,2025-08-22
+U001055,23,F,San Natalia los bajos,9638.6,664,Salaried,2025-03-29
+U001056,57,M,Nueva Filipinas,13691.79,652,Salaried,2024-09-06
+U001057,65,M,San Rosario los bajos,20837.19,682,Salaried,2024-04-07
+U001058,63,M,San Rodrigo los altos,11647.42,653,Self-Employed,2024-08-19
+U001059,28,F,San Dalia los bajos,2871.53,659,Retired,2025-06-25
+U001060,51,F,Vieja Argelia,56815.77,763,Salaried,2024-09-17
+U001061,26,F,Nueva República Democrática Popular Lao,13206.23,665,Self-Employed,2025-07-19
+U001062,25,M,Nueva Sri Lanka,13541.03,697,Salaried,2024-05-14
+U001063,45,F,Vieja Sudáfrica,6578.17,723,Salaried,2024-10-05
+U001064,34,M,Nueva Nauru,20521.51,716,Salaried,2025-10-29
+U001065,50,F,Nueva Saint Kitts y Nevis,17380.17,693,Salaried,2025-08-05
+U001066,72,M,Nueva Gabón,20004.58,729,Salaried,2025-03-08
+U001067,34,M,San Trinidad los bajos,10802.96,654,Unemployed,2024-10-16
+U001068,61,M,San Jaqueline los bajos,14201.65,756,Salaried,2024-06-04
+U001069,50,M,Vieja Hungría,6352.07,622,Salaried,2025-04-30
+U001070,73,M,San Rocío de la Montaña,14747.91,703,Salaried,2023-11-27
+U001071,48,F,San Ramiro los altos,14824.03,698,Salaried,2025-02-25
+U001072,27,M,San Héctor los altos,11685.2,734,Retired,2024-02-13
+U001073,72,M,San Andrea los bajos,5112.57,657,Salaried,2024-06-23
+U001074,63,F,San Gerónimo los bajos,12557.17,628,Salaried,2025-04-14
+U001075,33,F,San Elena de la Montaña,12021.93,744,Retired,2024-12-27
+U001076,38,F,Nueva Saint Kitts y Nevis,13528.2,691,Self-Employed,2024-09-30
+U001077,54,F,San Clara los altos,6272.32,658,Salaried,2023-12-11
+U001078,61,M,San Gustavo los bajos,10666.7,678,Salaried,2025-10-26
+U001079,69,M,San Leticia los bajos,28824.65,735,Retired,2025-06-16
+U001080,22,F,Nueva Italia,6857.69,677,Unemployed,2025-06-08
+U001081,67,F,Vieja Suriname,18014.51,747,Salaried,2024-08-26
+U001082,53,F,San David los altos,34486.54,670,Salaried,2025-10-02
+U001083,30,F,Vieja Botswana,8213.1,622,Salaried,2024-11-21
+U001084,37,M,Vieja Uruguay,11609.61,698,Salaried,2025-08-10
+U001085,55,F,Vieja Sudán,24158.72,698,Retired,2024-01-30
+U001086,67,M,Vieja Estonia,11026.88,700,Self-Employed,2025-06-22
+U001087,52,M,San Lucía los bajos,8094.29,767,Salaried,2024-09-05
+U001088,44,M,San Rocío los bajos,5091.89,684,Salaried,2024-11-16
+U001089,40,M,Vieja Bahamas,44988.57,715,Retired,2025-09-24
+U001090,18,F,Vieja Egipto,11920.04,656,Self-Employed,2024-12-14
+U001091,64,F,Vieja Polonia,11989.24,748,Salaried,2024-07-10
+U001092,51,M,San Ana de la Montaña,3543.54,740,Salaried,2024-03-07
+U001093,21,M,Vieja Madagascar,5685.22,655,Self-Employed,2025-02-06
+U001094,23,M,San Claudio los bajos,10326.34,695,Retired,2025-09-21
+U001095,75,F,Nueva Nigeria,5121.1,711,Self-Employed,2024-08-06
+U001096,41,F,Vieja Sierra Leona,45007.56,660,Retired,2024-01-06
+U001097,23,M,Vieja Guatemala,14970.3,649,Salaried,2024-05-02
+U001098,58,F,Nueva Noruega,17249.39,697,Salaried,2025-07-23
+U001099,54,M,Nueva Santo Tomé y Príncipe,9091.62,705,Salaried,2024-10-23
+U001100,26,M,San Karina los bajos,39442.88,694,Salaried,2024-11-26
+U001101,72,F,San Abigail de la Montaña,20575.47,654,Retired,2025-01-09
+U001102,43,F,Vieja Andorra,7526.14,697,Salaried,2025-10-14
+U001103,35,M,San Olga de la Montaña,32547.95,714,Salaried,2023-12-05
+U001104,30,M,Nueva Estonia,11071.89,676,Self-Employed,2025-05-13
+U001105,55,M,San Hugo de la Montaña,6309.14,707,Salaried,2024-02-09
+U001106,28,F,San Nadia los altos,22683.65,668,Salaried,2024-07-16
+U001107,44,M,Nueva Austria,10076.64,692,Salaried,2024-07-10
+U001108,67,M,San María Eugenia los altos,10280.13,691,Salaried,2024-12-30
+U001109,47,F,San Manuel los altos,47090.81,710,Unemployed,2024-03-04
+U001110,23,M,San Minerva los bajos,10775.13,646,Self-Employed,2025-06-26
+U001111,37,M,Nueva Luxemburgo,20879.33,682,Salaried,2023-12-06
+U001112,72,F,Nueva Uzbekistán,9048.7,747,Salaried,2024-03-02
+U001113,63,M,Nueva República Unida de Tanzanía,31312.16,688,Retired,2024-12-17
+U001114,43,M,Nueva Kirguistán,4359.34,716,Self-Employed,2025-05-27
+U001115,34,M,Vieja Singapur,8859.29,707,Salaried,2024-06-07
+U001116,43,F,Nueva Suecia,4096.7,711,Salaried,2024-02-13
+U001117,53,M,Nueva Togo,6459.43,712,Salaried,2024-02-19
+U001118,24,M,San María los bajos,13474.63,637,Salaried,2024-02-25
+U001119,21,M,San Mario los altos,10464.86,698,Salaried,2024-03-19
+U001120,70,F,Nueva Hungría,14236.11,722,Salaried,2024-10-13
+U001121,58,M,Vieja Senegal,43733.27,660,Salaried,2025-03-06
+U001122,34,M,Vieja Brunei Darussalam,35253.76,706,Salaried,2024-12-23
+U001123,22,M,Vieja Burundi,7791.04,615,Retired,2025-07-23
+U001124,46,M,Vieja El Salvador,11926.62,721,Salaried,2025-03-09
+U001125,72,F,Vieja Paraguay,12375.46,758,Salaried,2024-04-26
+U001126,47,M,San Lucas los bajos,5593.13,678,Salaried,2024-03-25
+U001127,54,F,Vieja Eslovaquia,6301.63,697,Self-Employed,2025-05-09
+U001128,43,F,San Isabel de la Montaña,22745.72,677,Salaried,2023-11-24
+U001129,61,F,Nueva Burkina Faso,2800.27,691,Salaried,2025-08-31
+U001130,31,M,San Conchita de la Montaña,17362.07,699,Salaried,2025-07-19
+U001131,46,M,Nueva Gambia,28042.3,658,Salaried,2025-04-05
+U001132,57,M,Vieja Haití,20093.06,746,Self-Employed,2024-06-14
+U001133,49,F,San Amador de la Montaña,4595.57,691,Unemployed,2025-08-14
+U001134,48,M,Nueva Guyana,9872.34,680,Salaried,2024-08-27
+U001135,42,M,San Luis los altos,16458.64,667,Salaried,2024-02-20
+U001136,59,M,Nueva Alemania,8906.84,689,Self-Employed,2025-09-13
+U001137,69,M,Nueva Islas Marshall,6958.04,648,Retired,2024-08-25
+U001138,68,F,San Silvia los bajos,20082.9,658,Salaried,2025-10-04
+U001139,68,F,Vieja Italia,19926.14,722,Salaried,2024-04-12
+U001140,54,F,Vieja Lituania,4743.43,654,Salaried,2024-11-10
+U001141,29,M,San Judith los altos,27349.83,652,Salaried,2025-09-12
+U001142,32,M,San Lucía los altos,10110.78,694,Unemployed,2025-10-10
+U001143,67,F,Nueva Canadá,21376.22,694,Salaried,2025-05-15
+U001144,48,F,Nueva Brunei Darussalam,9334.7,740,Self-Employed,2024-10-10
+U001145,32,M,San Rebeca los altos,37924.01,743,Salaried,2024-10-27
+U001146,60,M,Vieja Kazajstán,14061.43,661,Salaried,2025-03-10
+U001147,70,M,Nueva Niger,8117.14,714,Self-Employed,2025-11-05
+U001148,32,F,San Bruno los bajos,17172.06,739,Salaried,2024-10-29
+U001149,71,M,Nueva Georgia,19737.39,645,Salaried,2025-04-13
+U001150,55,F,San Adán los altos,25113.69,662,Self-Employed,2025-09-26
+U001151,62,F,Vieja Papua Nueva Guinea,10610.69,701,Retired,2025-01-01
+U001152,19,F,Vieja Suecia,44240.7,828,Retired,2025-06-08
+U001153,54,M,Vieja Jamaica,19226.29,688,Salaried,2025-04-20
+U001154,30,F,San Conchita los altos,18411.0,718,Salaried,2025-10-14
+U001155,29,F,Nueva Somalia,11021.46,747,Salaried,2025-11-16
+U001156,21,M,Vieja Nueva Zelandia,15337.29,695,Self-Employed,2025-09-27
+U001157,19,F,Nueva Zimbabwe,19921.49,696,Salaried,2024-12-07
+U001158,57,M,San Fabiola los bajos,22100.69,675,Self-Employed,2024-06-25
+U001159,39,M,Nueva República Centroafricana,9556.9,635,Retired,2025-04-04
+U001160,72,F,San Karina de la Montaña,17390.87,734,Salaried,2024-01-22
+U001161,27,M,San María los altos,17582.58,748,Self-Employed,2024-11-04
+U001162,72,F,Vieja Micronesia,13314.95,726,Retired,2024-07-24
+U001163,41,F,Vieja Yemen,6939.46,661,Salaried,2025-04-12
+U001164,39,F,Nueva Luxemburgo,20278.62,723,Salaried,2024-10-07
+U001165,28,F,Nueva Bosnia y Herzegovina,11199.45,672,Self-Employed,2025-07-28
+U001166,49,F,San Nancy los altos,5373.72,665,Salaried,2024-04-30
+U001167,53,F,San Jacinto los bajos,22793.48,722,Salaried,2025-08-24
+U001168,55,M,Nueva Mongolia,18040.95,697,Salaried,2024-08-05
+U001169,64,F,San Víctor los bajos,13416.46,669,Salaried,2025-05-31
+U001170,64,M,San Camila de la Montaña,20318.7,719,Retired,2025-07-03
+U001171,54,F,Nueva Italia,17947.59,673,Unemployed,2024-08-23
+U001172,67,M,San Pascual los altos,3670.17,731,Salaried,2024-09-07
+U001173,38,M,Nueva Côte d'Ivoire,10023.6,644,Self-Employed,2024-12-08
+U001174,24,F,Vieja Bulgaria,20253.59,666,Salaried,2024-06-06
+U001175,65,M,Nueva Cabo Verde,25234.36,732,Salaried,2025-11-13
+U001176,38,M,San Esmeralda los bajos,20133.52,634,Self-Employed,2025-08-23
+U001177,23,F,Vieja Bulgaria,27644.07,699,Salaried,2025-07-02
+U001178,34,M,San Amalia los altos,10704.65,683,Salaried,2025-09-02
+U001179,22,F,Vieja Montenegro,4602.06,681,Salaried,2025-04-16
+U001180,24,M,Vieja Albania,7203.89,615,Salaried,2025-01-06
+U001181,46,F,Vieja República Popular Democrática de Corea,5359.28,722,Retired,2024-12-01
+U001182,74,F,Nueva Vanuatu,9158.54,757,Salaried,2025-08-16
+U001183,42,F,Nueva Liberia,9686.8,612,Salaried,2025-04-15
+U001184,24,F,San Natalia los bajos,6836.87,718,Self-Employed,2024-10-12
+U001185,54,M,Vieja Liechtenstein,12166.74,667,Salaried,2024-08-14
+U001186,22,M,San María Cristina de la Montaña,14706.0,695,Salaried,2024-03-08
+U001187,38,F,San Salvador los altos,26119.55,753,Retired,2025-10-10
+U001188,22,F,San Pascual los bajos,10765.9,618,Salaried,2025-05-27
+U001189,42,M,Nueva Eslovaquia,10424.57,691,Self-Employed,2025-03-20
+U001190,53,M,San Jaime los altos,7493.15,645,Salaried,2024-03-04
+U001191,57,F,Vieja Turquía,16420.28,692,Self-Employed,2024-02-19
+U001192,45,M,San Ramiro los bajos,13625.23,655,Self-Employed,2025-02-16
+U001193,45,M,San Zeferino los altos,11634.84,647,Salaried,2025-10-16
+U001194,39,M,San Luisa de la Montaña,22790.96,733,Retired,2025-01-01
+U001195,44,F,Nueva Letonia,4412.9,639,Self-Employed,2024-03-13
+U001196,37,M,Nueva Emiratos Árabes Unidos,5442.98,647,Salaried,2024-06-16
+U001197,43,F,Vieja Tayikistán,12707.37,626,Salaried,2024-06-03
+U001198,41,M,Nueva Togo,7683.91,638,Salaried,2025-07-23
+U001199,36,F,San Emilia los altos,15128.87,685,Salaried,2023-12-17
+U001200,19,M,San María Cristina de la Montaña,8664.22,675,Salaried,2025-03-14
+U001201,36,M,Vieja Fiji,9623.78,666,Salaried,2024-12-22
+U001202,25,F,San Wendolin de la Montaña,36463.65,752,Self-Employed,2025-11-10
+U001203,48,F,San Julia los bajos,6125.72,713,Unemployed,2025-07-26
+U001204,34,M,San Pedro de la Montaña,21738.45,642,Self-Employed,2023-12-02
+U001205,42,M,San Eloy los altos,21834.94,754,Salaried,2025-09-26
+U001206,42,F,San Espartaco los altos,6812.22,641,Salaried,2025-05-22
+U001207,20,F,San Rolando los altos,24602.34,695,Salaried,2025-06-17
+U001208,34,M,Nueva Haití,18599.42,699,Self-Employed,2024-11-04
+U001209,54,M,Nueva Dominicana,16889.0,640,Salaried,2024-04-04
+U001210,62,M,Vieja Australia,25044.03,752,Salaried,2024-10-19
+U001211,40,F,San Pilar los bajos,11641.9,679,Retired,2024-03-02
+U001212,55,M,Vieja Albania,5331.22,703,Salaried,2024-08-04
+U001213,71,F,San Cristal de la Montaña,18830.52,701,Self-Employed,2024-03-20
+U001214,44,F,San Rubén de la Montaña,26228.77,684,Salaried,2025-07-14
+U001215,33,F,San Mitzy los altos,18746.52,644,Salaried,2025-01-22
+U001216,43,M,San Antonia los altos,13172.26,677,Salaried,2024-07-25
+U001217,75,M,Nueva Paraguay,15293.52,688,Salaried,2024-01-13
+U001218,66,F,Vieja República Árabe Siria,12346.36,728,Salaried,2025-01-12
+U001219,28,M,San Aurelio los bajos,10279.86,610,Self-Employed,2024-05-11
+U001220,26,M,Vieja Islas Marshall,38167.91,756,Salaried,2024-08-28
+U001221,61,F,San Esteban los altos,6152.68,714,Salaried,2025-01-07
+U001222,70,M,San Ramiro los altos,9879.48,705,Self-Employed,2023-11-28
+U001223,34,F,Vieja Micronesia,15939.16,673,Retired,2024-05-26
+U001224,69,M,Nueva Tayikistán,8347.69,665,Salaried,2025-10-09
+U001225,53,F,San Juana de la Montaña,7710.09,650,Salaried,2024-09-16
+U001226,72,F,San Paola los altos,12831.94,670,Salaried,2024-06-28
+U001227,73,M,Vieja Panamá,20115.2,766,Self-Employed,2025-08-06
+U001228,57,F,San Micaela de la Montaña,9432.99,697,Salaried,2024-07-09
+U001229,27,M,Vieja Panamá,18030.34,700,Salaried,2024-01-24
+U001230,55,M,Nueva Qatar,13982.66,721,Retired,2025-01-09
+U001231,54,M,Nueva Eslovaquia,17842.69,645,Self-Employed,2025-04-25
+U001232,73,F,Vieja Brunei Darussalam,22505.02,744,Unemployed,2024-04-29
+U001233,34,F,San Vicente de la Montaña,8450.9,676,Self-Employed,2025-06-24
+U001234,54,F,Nueva Montenegro,20130.62,688,Salaried,2025-05-31
+U001235,35,F,San Alfonso de la Montaña,25432.59,787,Salaried,2024-01-17
+U001236,56,F,Nueva Gabón,8336.58,631,Salaried,2025-01-28
+U001237,74,F,Nueva Georgia,16031.18,731,Self-Employed,2024-10-03
+U001238,21,F,San María del Carmen los altos,11631.59,730,Retired,2024-10-01
+U001239,75,F,San Ignacio de la Montaña,5983.95,721,Salaried,2024-09-19
+U001240,70,F,Nueva Somalia,9288.05,763,Salaried,2025-06-03
+U001241,71,F,Nueva Túnez,44157.11,698,Unemployed,2025-09-10
+U001242,61,M,Vieja Países Bajos,9607.18,724,Retired,2024-02-12
+U001243,32,M,San Hermelinda los altos,10590.59,674,Salaried,2024-01-28
+U001244,65,F,San Marcela los bajos,13564.79,619,Self-Employed,2024-09-23
+U001245,38,F,Vieja Congo,13249.26,654,Self-Employed,2025-01-09
+U001246,56,M,Nueva Zambia,9938.05,745,Salaried,2024-09-20
+U001247,31,F,San Tania de la Montaña,6286.1,704,Self-Employed,2024-07-10
+U001248,66,F,San Adalberto los altos,11300.73,683,Self-Employed,2025-10-01
+U001249,50,M,Nueva Australia,21465.95,710,Salaried,2023-11-25
+U001250,63,F,San Pablo los altos,18814.21,739,Salaried,2024-01-27
+U001251,72,M,San Enrique los altos,10951.32,672,Salaried,2025-06-19
+U001252,74,M,San Eric los bajos,6966.79,660,Self-Employed,2025-10-25
+U001253,33,M,Nueva Dominicana,78390.39,794,Salaried,2024-05-11
+U001254,41,M,San Eloisa de la Montaña,5939.35,623,Salaried,2024-04-10
+U001255,70,F,Vieja Sri Lanka,17838.59,724,Salaried,2025-01-21
+U001256,58,M,Vieja Suriname,18570.51,687,Self-Employed,2024-01-13
+U001257,33,F,San Berta de la Montaña,12391.02,692,Salaried,2025-06-07
+U001258,46,M,San Isabel los bajos,14066.28,598,Retired,2024-02-29
+U001259,48,F,Nueva Guinea Bissau,11639.04,651,Salaried,2025-03-17
+U001260,71,F,Nueva Iraq,14840.67,819,Self-Employed,2024-12-03
+U001261,62,M,San Isaac los altos,16655.39,685,Salaried,2025-04-17
+U001262,42,M,San Rocío de la Montaña,23227.24,713,Salaried,2025-02-03
+U001263,54,M,San Ignacio los bajos,17189.55,718,Unemployed,2024-03-31
+U001264,59,M,Vieja Francia,45886.5,680,Self-Employed,2025-07-24
+U001265,35,F,Vieja Guatemala,17750.68,648,Salaried,2025-09-04
+U001266,73,M,San Cecilia los altos,18644.52,668,Salaried,2025-06-13
+U001267,26,M,San Mauro los bajos,10400.2,661,Self-Employed,2024-11-01
+U001268,18,M,San Hilda los bajos,23992.34,719,Salaried,2025-01-23
+U001269,69,F,Nueva Sri Lanka,6326.92,693,Self-Employed,2025-03-07
+U001270,63,F,Vieja Chile,8727.66,639,Salaried,2025-10-14
+U001271,42,F,Vieja Vanuatu,11728.65,670,Salaried,2025-10-10
+U001272,31,F,Nueva Angola,57298.51,740,Salaried,2025-09-11
+U001273,51,F,Vieja Rumania,5845.51,658,Salaried,2024-05-05
+U001274,18,F,Vieja República Árabe Siria,24657.34,767,Salaried,2025-10-16
+U001275,56,F,San Úrsula de la Montaña,5158.55,607,Salaried,2024-09-01
+U001276,24,F,San Esparta los altos,41051.35,718,Salaried,2025-06-13
+U001277,35,F,San Cecilia los bajos,7934.89,696,Unemployed,2024-12-15
+U001278,34,F,Vieja Kirguistán,2747.79,669,Salaried,2024-12-16
+U001279,51,M,Nueva Santo Tomé y Príncipe,16263.73,728,Unemployed,2025-05-06
+U001280,69,F,Nueva Micronesia,7271.1,695,Self-Employed,2024-03-24
+U001281,61,M,Nueva Venezuela,7667.49,698,Self-Employed,2025-06-12
+U001282,59,F,San Jorge de la Montaña,7807.13,670,Retired,2024-05-09
+U001283,34,F,San Esther de la Montaña,7350.41,700,Salaried,2024-06-14
+U001284,65,M,San Eugenia de la Montaña,22360.93,695,Salaried,2025-04-24
+U001285,54,M,Vieja Liberia,13669.78,632,Salaried,2024-11-20
+U001286,63,M,San Amalia de la Montaña,11161.15,690,Self-Employed,2025-04-08
+U001287,58,F,San Benjamín los altos,64374.69,698,Retired,2024-12-30
+U001288,60,F,San Frida los altos,32160.89,752,Salaried,2025-01-17
+U001289,72,M,Vieja Sudán,15809.75,772,Self-Employed,2024-09-11
+U001290,74,M,San Rodrigo los altos,16701.66,719,Salaried,2025-10-19
+U001291,48,M,Vieja Lesotho,12940.63,735,Self-Employed,2025-10-26
+U001292,64,M,Vieja Jordania,25793.6,682,Retired,2025-08-17
+U001293,75,F,San Micaela los bajos,6053.86,685,Self-Employed,2025-10-11
+U001294,32,F,Nueva Mauritania,8266.59,671,Salaried,2024-03-29
+U001295,73,F,Nueva Panamá,28070.17,696,Salaried,2025-04-04
+U001296,74,F,San Eric de la Montaña,13020.83,702,Salaried,2024-04-15
+U001297,55,F,Vieja Samoa,22226.9,609,Salaried,2025-06-01
+U001298,25,F,Nueva Malawi,9283.37,680,Salaried,2025-08-13
+U001299,58,M,San Camila los bajos,27447.97,686,Salaried,2025-04-29
+U001300,30,M,San Mauro de la Montaña,4333.23,694,Unemployed,2025-02-22
+U001301,42,F,Vieja Antigua y Barbuda,9125.09,632,Salaried,2024-05-29
+U001302,73,M,Nueva República Democrática Popular Lao,9185.6,688,Salaried,2025-02-24
+U001303,30,F,Nueva Seychelles,9294.27,586,Salaried,2024-12-24
+U001304,54,F,Nueva Bahrein,22885.06,750,Salaried,2024-03-30
+U001305,73,M,San Dolores los altos,19750.09,660,Self-Employed,2024-10-01
+U001306,49,F,Vieja Bhután,11838.42,686,Self-Employed,2024-05-08
+U001307,29,F,San Samuel los bajos,19135.04,710,Self-Employed,2025-09-25
+U001308,18,F,San David de la Montaña,8599.81,670,Salaried,2025-08-27
+U001309,66,M,San Ruby de la Montaña,17577.38,758,Salaried,2025-07-31
+U001310,28,F,Vieja Côte d'Ivoire,20388.04,715,Self-Employed,2025-06-06
+U001311,67,M,San María Elena los altos,14048.85,753,Salaried,2025-02-22
+U001312,45,F,Nueva Lesotho,17083.32,655,Salaried,2024-09-16
+U001313,48,F,Nueva Angola,31008.67,732,Salaried,2024-04-27
+U001314,52,M,San Conchita los altos,10241.19,667,Self-Employed,2024-02-04
+U001315,18,F,Vieja Santo Tomé y Príncipe,15961.67,693,Self-Employed,2025-03-01
+U001316,51,M,Nueva Bosnia y Herzegovina,15038.6,702,Salaried,2024-11-30
+U001317,18,M,Nueva Tailandia,37048.18,738,Salaried,2025-04-09
+U001318,74,F,San Octavio los bajos,14978.65,739,Salaried,2024-09-04
+U001319,24,F,Vieja Etiopía,7190.28,685,Salaried,2025-11-19
+U001320,37,M,San Juana los bajos,39560.4,699,Salaried,2025-02-21
+U001321,20,F,Vieja Chad,8033.85,641,Retired,2024-06-06
+U001322,47,F,San Eugenia de la Montaña,6948.08,649,Salaried,2024-06-29
+U001323,61,M,San Francisco de la Montaña,10696.75,634,Salaried,2023-11-26
+U001324,75,F,Nueva Paraguay,13485.51,737,Salaried,2023-11-27
+U001325,30,M,San Vanesa de la Montaña,7749.21,733,Retired,2025-05-09
+U001326,69,F,San Lucas los bajos,18150.9,743,Salaried,2024-02-12
+U001327,32,M,Vieja Sudáfrica,9002.88,709,Salaried,2025-02-18
+U001328,19,M,San Francisca los altos,6938.49,702,Salaried,2024-10-15
+U001329,63,M,San Sara los bajos,14810.68,718,Salaried,2025-05-03
+U001330,58,F,San Emilia los bajos,6598.8,649,Self-Employed,2025-01-23
+U001331,57,M,San Diego los bajos,19117.07,659,Salaried,2025-01-29
+U001332,21,M,San Flavio los bajos,17639.99,623,Self-Employed,2025-02-12
+U001333,19,M,San Leonel los altos,22223.48,632,Self-Employed,2024-03-08
+U001334,44,F,Nueva Micronesia,18608.62,715,Salaried,2025-07-22
+U001335,53,F,Nueva Eslovenia,8794.98,708,Salaried,2024-12-20
+U001336,27,M,San Ivonne los altos,15619.34,657,Self-Employed,2025-03-12
+U001337,58,M,Nueva Liberia,7294.44,607,Salaried,2025-03-29
+U001338,60,M,Nueva Chipre,16478.14,633,Self-Employed,2024-11-22
+U001339,35,M,San Augusto de la Montaña,14146.27,671,Salaried,2024-06-13
+U001340,75,M,Vieja Benin,20080.12,695,Salaried,2025-03-09
+U001341,57,M,Vieja Lituania,10963.55,718,Salaried,2025-03-12
+U001342,68,M,San Rubén de la Montaña,16334.5,712,Salaried,2025-07-14
+U001343,56,M,Vieja Mauritania,17704.26,634,Self-Employed,2023-11-30
+U001344,71,M,Vieja Egipto,21037.74,731,Salaried,2023-12-18
+U001345,44,F,Nueva Swazilandia,7258.95,669,Salaried,2023-12-20
+U001346,53,F,San Evelio los altos,13048.33,684,Retired,2023-11-22
+U001347,62,F,Nueva Guatemala,16322.76,754,Salaried,2025-07-19
+U001348,18,M,San Jesús los altos,25567.06,632,Self-Employed,2024-09-23
+U001349,25,F,San Rodrigo de la Montaña,19404.15,735,Salaried,2024-12-28
+U001350,23,M,Nueva Bosnia y Herzegovina,16849.65,721,Self-Employed,2025-01-21
+U001351,24,F,San Rafaél los altos,44683.62,747,Self-Employed,2024-08-18
+U001352,47,F,San Gerónimo de la Montaña,15515.35,730,Salaried,2025-03-06
+U001353,21,M,Vieja Luxemburgo,14573.1,676,Self-Employed,2025-02-10
+U001354,73,M,Vieja Cuba,10820.0,759,Unemployed,2024-10-03
+U001355,41,F,Nueva Países Bajos,8175.87,739,Salaried,2024-07-07
+U001356,25,M,San Camilo los altos,18032.27,624,Unemployed,2024-06-09
+U001357,74,M,San Margarita los bajos,16657.06,619,Salaried,2025-02-01
+U001358,26,M,San Federico los bajos,19444.21,717,Salaried,2025-07-16
+U001359,75,F,San María Luisa los altos,9363.61,701,Retired,2025-09-21
+U001360,35,M,Vieja Burundi,43152.45,690,Salaried,2024-06-09
+U001361,39,M,Vieja Sierra Leona,7077.35,735,Salaried,2025-07-26
+U001362,43,F,Nueva Irán,43371.26,715,Salaried,2024-10-07
+U001363,42,F,San Noemí los altos,24511.01,749,Self-Employed,2023-11-29
+U001364,59,M,San Felix los bajos,8557.04,668,Salaried,2024-02-02
+U001365,62,M,San Zacarías los altos,27959.85,776,Retired,2025-08-20
+U001366,72,M,San Antonio los altos,18727.13,669,Salaried,2025-11-14
+U001367,55,F,Vieja Irán,44012.84,700,Self-Employed,2024-08-22
+U001368,61,F,Vieja Djibouti,10926.18,705,Salaried,2025-06-23
+U001369,42,F,Vieja Venezuela,33944.98,739,Self-Employed,2024-04-25
+U001370,73,M,Nueva Ghana,17135.7,722,Salaried,2024-04-30
+U001371,49,M,Nueva Francia,13713.13,710,Unemployed,2025-09-01
+U001372,46,M,San Cristal de la Montaña,2928.55,664,Salaried,2024-02-23
+U001373,59,F,Vieja Santo Tomé y Príncipe,15441.18,648,Salaried,2023-11-27
+U001374,73,M,Vieja Kuwait,16844.74,695,Retired,2025-03-18
+U001375,60,F,San Miguel los altos,38303.07,781,Salaried,2025-09-26
+U001376,62,M,San Mitzy de la Montaña,10102.28,685,Salaried,2025-07-07
+U001377,64,M,San Leonel de la Montaña,12779.93,676,Salaried,2025-06-26
+U001378,60,F,Nueva Perú,15018.15,664,Salaried,2025-08-03
+U001379,70,M,San Mateo los altos,6779.31,716,Salaried,2023-12-17
+U001380,28,F,San Laura los altos,19491.19,651,Unemployed,2025-07-16
+U001381,73,M,Vieja Cabo Verde,22861.58,684,Salaried,2025-05-17
+U001382,49,F,San Ignacio los altos,15551.29,722,Salaried,2023-11-28
+U001383,35,M,Nueva Letonia,13092.99,698,Salaried,2025-02-15
+U001384,53,F,Vieja Kenya,9800.04,678,Salaried,2025-03-11
+U001385,33,M,San Eduardo los altos,11807.43,648,Salaried,2024-06-13
+U001386,69,F,Vieja Namibia,12015.29,634,Salaried,2025-03-12
+U001387,49,F,San Josefina de la Montaña,9949.8,673,Salaried,2024-12-13
+U001388,49,M,San Enrique los bajos,11456.27,676,Salaried,2025-05-19
+U001389,44,M,San José los bajos,12873.7,704,Salaried,2024-06-26
+U001390,18,M,San Dolores los altos,22577.53,655,Self-Employed,2024-03-02
+U001391,57,F,Nueva Uganda,6490.4,643,Unemployed,2024-06-18
+U001392,53,M,Vieja Letonia,9973.41,672,Self-Employed,2024-04-22
+U001393,47,F,Nueva Nauru,8416.95,630,Salaried,2025-08-08
+U001394,21,M,Nueva Maldivas,10161.16,677,Self-Employed,2024-12-14
+U001395,39,F,Vieja Nigeria,19091.87,666,Self-Employed,2024-07-12
+U001396,41,F,San Ramiro los altos,10427.49,643,Salaried,2023-12-29
+U001397,66,M,San Berta los altos,13110.08,662,Salaried,2024-03-27
+U001398,40,F,Nueva Gambia,18842.62,617,Salaried,2024-11-26
+U001399,41,M,Vieja Yemen,10766.8,693,Salaried,2024-08-07
+U001400,28,F,San Jorge Luis los bajos,14917.66,786,Salaried,2025-01-30
+U001401,63,F,San Jaime de la Montaña,16479.62,657,Salaried,2024-10-06
+U001402,57,M,Vieja Tailandia,12616.0,620,Salaried,2025-03-06
+U001403,72,F,Nueva Guinea Bissau,12729.03,665,Salaried,2024-08-23
+U001404,70,M,San Zacarías los altos,23138.06,686,Self-Employed,2024-12-04
+U001405,24,F,San Arcelia los bajos,12455.78,649,Salaried,2025-03-12
+U001406,58,M,San Marisol los altos,37922.91,704,Self-Employed,2024-03-13
+U001407,46,F,Vieja Maldivas,40116.15,745,Self-Employed,2025-03-26
+U001408,50,M,San Angélica de la Montaña,17840.74,707,Retired,2024-03-26
+U001409,18,M,San Esperanza los bajos,16920.45,598,Salaried,2024-07-25
+U001410,45,F,San Gabriela los altos,11301.27,717,Retired,2025-04-05
+U001411,67,M,San Genaro los bajos,12973.47,640,Self-Employed,2025-07-20
+U001412,29,M,San Rodrigo los altos,12946.2,745,Salaried,2024-11-05
+U001413,60,F,San Daniela de la Montaña,28229.84,705,Salaried,2025-09-15
+U001414,42,F,Nueva Uzbekistán,23644.12,679,Retired,2024-05-22
+U001415,62,M,San Arcelia de la Montaña,4806.27,648,Salaried,2024-03-30
+U001416,39,F,San Benjamín de la Montaña,34123.22,692,Salaried,2024-01-10
+U001417,26,M,San Pascual de la Montaña,11544.56,662,Salaried,2023-12-12
+U001418,62,F,San Ofelia de la Montaña,41876.58,787,Self-Employed,2024-02-10
+U001419,53,F,San Serafín de la Montaña,50577.81,720,Self-Employed,2024-01-26
+U001420,53,M,San Horacio de la Montaña,15952.56,631,Salaried,2024-06-01
+U001421,57,F,San Margarita los altos,32408.0,664,Self-Employed,2024-02-28
+U001422,61,M,Nueva Argelia,15215.43,651,Retired,2023-12-19
+U001423,59,M,San Irma los bajos,9383.24,655,Salaried,2024-11-18
+U001424,62,F,San Pascual los bajos,9276.83,668,Self-Employed,2024-03-05
+U001425,66,F,Vieja Seychelles,9614.61,725,Salaried,2025-06-25
+U001426,55,F,San Ofelia los altos,6884.88,693,Self-Employed,2025-04-01
+U001427,75,F,San Javier los bajos,27744.02,694,Unemployed,2025-01-14
+U001428,45,M,Nueva México,8684.1,671,Salaried,2024-07-18
+U001429,19,F,San Liliana los bajos,27114.8,694,Salaried,2024-03-21
+U001430,60,M,San Adalberto de la Montaña,9713.49,709,Salaried,2025-01-01
+U001431,66,M,Vieja Guinea Ecuatorial,6895.5,717,Retired,2024-11-20
+U001432,61,F,Vieja Nicaragua,17071.48,685,Salaried,2024-07-11
+U001433,21,F,Vieja Guyana,8077.59,633,Salaried,2025-02-27
+U001434,52,M,Nueva República Centroafricana,18414.44,743,Salaried,2024-09-07
+U001435,46,M,Vieja República de Macedonia del Norte,9114.44,700,Self-Employed,2024-10-26
+U001436,61,M,San Felix de la Montaña,3819.15,660,Self-Employed,2025-05-30
+U001437,53,F,San José María de la Montaña,13113.07,653,Salaried,2024-06-13
+U001438,68,F,Vieja Serbia,7616.68,664,Self-Employed,2024-05-26
+U001439,21,F,San Gloria los altos,15919.75,668,Salaried,2025-06-21
+U001440,68,F,San Liliana de la Montaña,3487.92,602,Retired,2025-09-14
+U001441,21,M,Nueva Chad,9282.45,688,Self-Employed,2024-07-03
+U001442,30,F,Vieja San Vicente y las Granadinas,2569.58,647,Self-Employed,2024-11-07
+U001443,58,F,San Silvia los bajos,9742.48,744,Self-Employed,2024-04-15
+U001444,52,M,San Aida de la Montaña,10604.0,701,Self-Employed,2023-12-30
+U001445,30,F,Nueva Brunei Darussalam,14541.39,594,Salaried,2024-06-28
+U001446,61,M,San Carmen los altos,21182.37,710,Salaried,2024-10-27
+U001447,29,M,Nueva Bosnia y Herzegovina,18123.44,839,Salaried,2024-03-18
+U001448,45,F,Vieja España,3825.84,745,Salaried,2024-08-13
+U001449,26,M,San Hugo los bajos,11243.34,685,Salaried,2024-09-05
+U001450,34,M,San Alonso los bajos,12999.84,663,Salaried,2024-01-23
+U001451,63,M,Nueva Granada,9491.01,704,Salaried,2025-07-16
+U001452,38,M,San Angélica los altos,5375.98,704,Self-Employed,2024-11-21
+U001453,58,F,Nueva Gabón,10407.51,644,Salaried,2025-08-17
+U001454,54,F,San Adán de la Montaña,10198.46,737,Salaried,2025-07-10
+U001455,63,F,Vieja México,9689.51,705,Salaried,2024-05-31
+U001456,29,M,Nueva Montenegro,8616.43,703,Self-Employed,2025-06-15
+U001457,28,F,Nueva Nauru,20156.95,758,Salaried,2024-09-19
+U001458,43,M,San Irene de la Montaña,12024.02,710,Salaried,2025-03-24
+U001459,74,M,Nueva Gabón,14169.41,753,Self-Employed,2024-11-29
+U001460,39,F,San Elvia los bajos,8679.34,707,Salaried,2025-10-11
+U001461,66,F,Nueva Burkina Faso,11886.77,692,Retired,2024-05-23
+U001462,70,M,San Irma de la Montaña,14115.82,709,Salaried,2024-03-30
+U001463,40,F,San Rocío de la Montaña,12459.8,691,Salaried,2024-09-24
+U001464,59,M,Nueva Australia,34436.45,753,Retired,2025-02-15
+U001465,61,F,San Rubén de la Montaña,22505.0,684,Salaried,2024-09-05
+U001466,68,M,Nueva Congo,7835.78,730,Salaried,2024-12-14
+U001467,52,F,Vieja Serbia,22598.26,757,Salaried,2024-01-07
+U001468,51,F,Vieja Sri Lanka,9298.53,675,Salaried,2024-03-20
+U001469,50,F,Nueva Nigeria,4995.58,664,Salaried,2024-05-20
+U001470,36,M,San Porfirio los altos,24292.97,673,Salaried,2025-07-01
+U001471,23,M,San Marcela los altos,19619.67,673,Salaried,2024-04-19
+U001472,67,M,Vieja Kazajstán,16227.04,653,Self-Employed,2025-06-06
+U001473,31,M,Vieja Australia,14060.51,559,Unemployed,2024-12-02
+U001474,45,M,San Rafaél los bajos,11942.54,619,Salaried,2025-01-16
+U001475,71,F,San Elias los altos,27545.56,744,Self-Employed,2024-04-14
+U001476,22,M,San Irene los altos,17676.7,739,Salaried,2024-11-19
+U001477,63,F,San Rufino los altos,7560.18,758,Salaried,2024-03-25
+U001478,22,M,Nueva Mónaco,23372.49,674,Salaried,2024-07-08
+U001479,34,M,San Patricia los bajos,26406.67,649,Salaried,2024-11-08
+U001480,32,F,Vieja Vanuatu,8146.08,649,Salaried,2024-04-14
+U001481,46,F,Vieja San Vicente y las Granadinas,9726.54,640,Salaried,2024-05-25
+U001482,19,F,San Andrea los altos,27829.44,676,Self-Employed,2025-01-13
+U001483,52,M,San Elias los altos,16506.39,669,Self-Employed,2025-05-05
+U001484,57,M,San Pedro de la Montaña,4481.16,693,Self-Employed,2025-03-12
+U001485,55,M,San Irene los bajos,4241.39,678,Self-Employed,2025-04-02
+U001486,22,F,San Blanca de la Montaña,5878.23,746,Retired,2025-01-01
+U001487,24,F,Nueva Canadá,23082.21,689,Self-Employed,2024-04-08
+U001488,37,M,Nueva Bulgaria,28516.1,663,Salaried,2024-12-02
+U001489,46,F,Nueva Argentina,18510.39,699,Salaried,2025-02-07
+U001490,60,M,San Víctor los bajos,15652.91,746,Salaried,2025-01-03
+U001491,52,M,San Amador los bajos,20733.28,708,Salaried,2024-05-11
+U001492,43,F,Nueva Eslovaquia,4949.63,638,Retired,2025-04-14
+U001493,27,F,San Arcelia los bajos,12411.45,679,Self-Employed,2025-08-05
+U001494,68,F,Vieja República de Corea,6780.99,787,Retired,2025-06-21
+U001495,18,M,San José Carlos los altos,33184.44,716,Salaried,2024-01-06
+U001496,18,F,San Óliver de la Montaña,13949.82,664,Salaried,2025-06-14
+U001497,23,F,Vieja Belice,7546.57,672,Salaried,2024-05-07
+U001498,65,F,Nueva Uruguay,15594.16,648,Salaried,2024-05-19
+U001499,75,M,San Elias de la Montaña,16325.86,697,Salaried,2025-01-03
+U001500,32,F,Nueva República de Corea,4252.73,635,Salaried,2025-06-25
+U001501,29,M,San Bernabé los altos,10423.69,750,Unemployed,2025-02-11
+U001502,53,F,San Zeferino los bajos,18656.16,641,Self-Employed,2025-05-20
+U001503,22,F,San Bernardo de la Montaña,17883.29,616,Self-Employed,2025-07-29
+U001504,34,M,Vieja Pakistán,25581.24,673,Salaried,2024-08-10
+U001505,55,F,Vieja Jordania,12629.85,743,Retired,2025-10-22
+U001506,40,M,San Paulina los bajos,6171.53,620,Self-Employed,2025-09-08
+U001507,33,M,San Liliana los altos,9412.94,717,Salaried,2024-10-21
+U001508,22,M,San Sandra de la Montaña,5368.98,553,Salaried,2025-02-01
+U001509,46,F,Vieja República Centroafricana,10191.45,705,Self-Employed,2025-11-10
+U001510,37,M,San Jorge Luis los bajos,27450.98,677,Salaried,2024-11-03
+U001511,41,F,San Abel los altos,10437.33,727,Retired,2023-12-18
+U001512,28,M,San Rubén de la Montaña,4350.97,652,Salaried,2024-12-28
+U001513,68,M,Vieja Albania,14976.75,716,Self-Employed,2024-07-12
+U001514,59,F,Nueva Irán,9839.07,690,Salaried,2023-12-08
+U001515,41,M,San Perla los altos,3001.91,647,Self-Employed,2025-01-27
+U001516,39,F,Nueva Armenia,17537.65,647,Salaried,2024-11-13
+U001517,40,F,San Cristal de la Montaña,13841.0,701,Salaried,2024-06-14
+U001518,24,M,San Rodolfo de la Montaña,10877.7,679,Self-Employed,2024-05-20
+U001519,23,F,San Helena de la Montaña,7497.77,660,Unemployed,2025-02-07
+U001520,26,M,San Rebeca de la Montaña,19266.63,688,Salaried,2025-06-14
+U001521,74,M,Vieja Niger,9396.39,705,Self-Employed,2024-04-04
+U001522,75,M,San Reynaldo de la Montaña,20512.01,626,Self-Employed,2025-02-26
+U001523,58,M,San Alfonso los altos,26780.91,692,Self-Employed,2025-08-10
+U001524,55,F,San Arcelia de la Montaña,17245.28,742,Self-Employed,2025-11-07
+U001525,31,M,San Jaqueline los bajos,5866.4,642,Salaried,2024-10-10
+U001526,52,F,Nueva Zambia,11235.92,655,Self-Employed,2025-04-12
+U001527,27,F,Vieja Bahamas,37833.94,667,Salaried,2024-07-15
+U001528,75,F,Vieja Reino Unido de Gran Bretaña e Irlanda del Norte,9572.71,705,Salaried,2025-02-02
+U001529,50,M,Vieja Países Bajos,6494.5,665,Salaried,2025-05-16
+U001530,50,M,Nueva Azerbaiyán,16162.87,677,Self-Employed,2025-04-28
+U001531,72,M,San Marisela los altos,12631.74,677,Self-Employed,2025-02-10
+U001532,26,F,Nueva Marruecos,5384.71,681,Salaried,2024-07-04
+U001533,54,M,San Concepción de la Montaña,38290.6,716,Self-Employed,2024-08-09
+U001534,48,F,Vieja República Democrática Popular Lao,15293.12,717,Salaried,2025-06-22
+U001535,66,F,Vieja Ghana,6237.92,757,Salaried,2024-01-27
+U001536,34,F,San Mónica los bajos,15084.11,747,Salaried,2025-07-15
+U001537,60,M,Nueva Niger,8605.7,761,Salaried,2025-01-29
+U001538,68,F,Vieja Liechtenstein,21270.86,727,Salaried,2025-04-11
+U001539,47,M,Nueva Finlandia,15373.72,678,Salaried,2024-01-16
+U001540,59,F,San Luis Manuel los bajos,27455.42,712,Salaried,2025-05-06
+U001541,51,F,Nueva Suriname,4104.17,634,Self-Employed,2024-10-08
+U001542,34,M,San Josefina los bajos,11950.07,691,Salaried,2024-04-17
+U001543,42,F,San Jaime los altos,12913.74,732,Salaried,2025-04-14
+U001544,75,M,Vieja Croacia,4143.68,697,Salaried,2024-08-19
+U001545,42,M,San Sofía de la Montaña,4488.22,705,Salaried,2024-10-29
+U001546,40,F,Nueva Emiratos Árabes Unidos,12623.62,699,Salaried,2025-05-07
+U001547,48,M,San Cristal los altos,7955.91,733,Salaried,2025-09-14
+U001548,26,F,Nueva Vietman,24960.12,711,Salaried,2024-01-03
+U001549,22,F,Nueva Guinea Ecuatorial,12360.85,696,Salaried,2023-12-02
+U001550,29,M,San Blanca los bajos,8741.74,707,Salaried,2024-11-05
+U001551,63,M,San Agustín los bajos,35942.96,760,Self-Employed,2024-05-02
+U001552,44,F,Nueva República Árabe Siria,8623.43,695,Self-Employed,2025-01-01
+U001553,48,F,San Pascual los bajos,6149.43,703,Salaried,2025-03-19
+U001554,55,M,Nueva Lesotho,17507.1,620,Self-Employed,2025-02-16
+U001555,44,M,Vieja Croacia,6653.71,667,Salaried,2024-01-07
+U001556,26,M,San Elvira los altos,11153.23,625,Salaried,2025-03-15
+U001557,50,M,San Ana los bajos,16871.6,701,Unemployed,2025-04-13
+U001558,27,M,Nueva Liberia,11889.83,645,Salaried,2025-04-17
+U001559,29,F,San Wilfrido los altos,25064.91,755,Salaried,2024-08-27
+U001560,54,M,Nueva Guyana,9995.23,662,Unemployed,2025-09-25
+U001561,64,F,San Esther los bajos,17938.86,685,Retired,2024-12-20
+U001562,31,F,Vieja Nigeria,12287.79,707,Self-Employed,2025-09-25
+U001563,48,F,Nueva El Salvador,4248.78,730,Salaried,2024-12-14
+U001564,71,F,San Ramiro los altos,13955.21,682,Self-Employed,2023-12-08
+U001565,68,M,Nueva Polonia,12663.25,695,Self-Employed,2024-07-15
+U001566,50,F,San Minerva los bajos,4728.1,739,Salaried,2025-06-22
+U001567,61,F,Nueva Jamaica,13695.13,711,Retired,2025-05-06
+U001568,56,M,San Joaquín los altos,23645.54,660,Salaried,2024-07-13
+U001569,42,M,Vieja Bangladesh,17748.98,678,Salaried,2025-03-22
+U001570,30,F,San Julia de la Montaña,22204.77,602,Self-Employed,2025-01-26
+U001571,56,M,San Espartaco de la Montaña,12588.56,666,Salaried,2024-08-13
+U001572,75,M,San Víctor de la Montaña,17315.51,723,Unemployed,2024-01-29
+U001573,52,M,San Nicolás los altos,8737.89,656,Salaried,2025-03-11
+U001574,60,M,Vieja Filipinas,12501.46,656,Retired,2025-02-08
+U001575,52,M,Vieja Indonesia,22141.09,683,Unemployed,2025-10-28
+U001576,67,F,San Marisol los altos,2335.09,670,Salaried,2024-03-03
+U001577,41,M,Nueva República Federal Democrática de Nepal,7164.36,612,Self-Employed,2025-01-15
+U001578,45,M,Nueva Indonesia,6358.48,683,Retired,2025-05-09
+U001579,48,F,Vieja Chipre,29649.02,716,Salaried,2025-04-14
+U001580,69,M,Vieja Belarús,9284.47,712,Salaried,2025-01-27
+U001581,34,F,Nueva Iraq,10143.07,649,Self-Employed,2025-09-04
+U001582,72,M,Nueva Iraq,6683.4,622,Salaried,2025-10-05
+U001583,74,F,San Lilia los bajos,10572.86,703,Salaried,2024-10-31
+U001584,18,M,San Cornelio de la Montaña,12607.23,654,Salaried,2024-02-12
+U001585,25,M,Nueva Arabia Saudita,7574.57,694,Salaried,2025-07-06
+U001586,31,F,San Samuel los altos,6061.55,702,Salaried,2025-03-11
+U001587,24,M,Nueva Federación de Rusia,7322.23,639,Salaried,2025-05-08
+U001588,55,F,Vieja Benin,5540.99,662,Salaried,2025-05-09
+U001589,52,F,San Cecilia los altos,23985.09,720,Salaried,2025-09-09
+U001590,57,F,San Violeta los bajos,24029.88,723,Retired,2024-04-12
+U001591,43,M,San Mitzy los bajos,6889.81,665,Salaried,2024-03-07
+U001592,68,F,Nueva Estonia,8365.58,745,Salaried,2023-12-17
+U001593,53,F,San Adela los bajos,6515.42,718,Salaried,2024-10-07
+U001594,37,F,Nueva Eritrea,22828.67,764,Self-Employed,2024-01-12
+U001595,43,M,Vieja Santo Tomé y Príncipe,10448.23,710,Unemployed,2024-12-06
+U001596,60,M,San María José de la Montaña,52522.19,707,Self-Employed,2024-10-19
+U001597,46,M,San Alma los altos,5318.66,603,Salaried,2025-06-15
+U001598,50,F,San Humberto los bajos,20488.67,620,Self-Employed,2025-03-10
+U001599,69,M,Nueva Mónaco,10685.13,712,Salaried,2024-11-10
+U001600,58,M,Nueva Papua Nueva Guinea,14929.66,710,Self-Employed,2025-01-12
+U001601,70,M,San Alfredo los altos,15265.85,751,Salaried,2024-09-17
+U001602,56,F,Nueva Guyana,7544.77,658,Salaried,2024-10-28
+U001603,34,M,San Hernán los bajos,8403.51,708,Salaried,2024-11-14
+U001604,56,M,Vieja Haití,22930.87,718,Self-Employed,2025-03-12
+U001605,43,F,Nueva Mozambique,27176.18,651,Self-Employed,2025-08-27
+U001606,56,M,San Aurora los altos,36327.65,775,Retired,2024-12-14
+U001607,70,M,Nueva República Popular Democrática de Corea,20772.25,777,Self-Employed,2025-11-19
+U001608,46,M,Vieja Malasia,4944.48,656,Salaried,2024-07-30
+U001609,60,F,San Alberto de la Montaña,8593.99,717,Salaried,2024-11-08
+U001610,68,M,Vieja Bosnia y Herzegovina,7114.68,721,Self-Employed,2024-06-03
+U001611,61,M,San Violeta los altos,30403.76,738,Salaried,2025-08-01
+U001612,59,M,Nueva Bosnia y Herzegovina,15839.32,655,Retired,2024-02-18
+U001613,23,F,San Tania los bajos,8037.63,719,Self-Employed,2024-01-27
+U001614,40,F,San Nayeli los altos,21324.45,689,Salaried,2024-03-25
+U001615,30,M,San Paulina los bajos,10396.81,594,Self-Employed,2023-12-26
+U001616,22,M,Vieja República de Moldova,7026.81,744,Salaried,2025-09-28
+U001617,64,F,Nueva Chipre,6196.42,695,Salaried,2024-04-08
+U001618,70,F,Vieja India,24451.98,659,Salaried,2024-07-19
+U001619,30,F,San Graciela los altos,14925.5,717,Retired,2024-04-10
+U001620,54,M,Nueva Emiratos Árabes Unidos,13460.3,805,Salaried,2023-11-24
+U001621,44,M,San Adán los bajos,4909.07,719,Salaried,2024-12-12
+U001622,50,F,San Pamela de la Montaña,12043.96,717,Salaried,2025-03-08
+U001623,25,F,San Eva de la Montaña,17409.73,650,Unemployed,2025-02-21
+U001624,70,F,San María Elena los bajos,15327.41,626,Self-Employed,2024-10-30
+U001625,42,F,Nueva Finlandia,19186.24,702,Self-Employed,2025-10-07
+U001626,66,F,San Silvano los altos,19598.26,744,Retired,2025-01-28
+U001627,47,F,Nueva Dominicana,16656.77,696,Unemployed,2024-03-16
+U001628,73,M,Vieja Armenia,7874.3,665,Salaried,2024-03-13
+U001629,34,M,Vieja Islas Marshall,27229.08,751,Salaried,2025-11-05
+U001630,68,M,Nueva Bulgaria,11581.15,697,Self-Employed,2024-10-10
+U001631,32,F,Nueva Swazilandia,7763.83,720,Salaried,2024-06-29
+U001632,40,M,Vieja Zambia,19915.43,767,Self-Employed,2025-02-13
+U001633,34,M,San Alejandro de la Montaña,7887.28,659,Salaried,2025-07-10
+U001634,43,F,San Irene los bajos,15349.95,712,Salaried,2025-10-19
+U001635,29,F,San Ángel los bajos,11738.15,641,Salaried,2025-09-07
+U001636,31,F,Vieja Namibia,22671.06,717,Salaried,2024-03-05
+U001637,65,M,Vieja Islas Marshall,7709.71,744,Salaried,2025-01-04
+U001638,30,M,San Ofelia de la Montaña,26960.26,697,Self-Employed,2025-05-15
+U001639,73,F,Nueva Bulgaria,14013.25,722,Salaried,2025-02-07
+U001640,30,M,Vieja Uruguay,7966.32,674,Self-Employed,2025-05-09
+U001641,40,M,San Luis los altos,3672.29,708,Self-Employed,2025-09-10
+U001642,25,M,San Francisco Javier los altos,5234.91,727,Self-Employed,2025-02-10
+U001643,60,F,San Catalina los altos,10959.13,682,Self-Employed,2025-02-01
+U001644,66,M,San Nicolás los altos,9166.95,680,Self-Employed,2025-03-26
+U001645,41,F,San Miguel de la Montaña,31292.03,602,Salaried,2025-10-08
+U001646,74,F,Vieja Egipto,28743.85,729,Salaried,2023-11-23
+U001647,66,F,Nueva Myanmar,6475.54,646,Salaried,2025-03-21
+U001648,66,M,Nueva Santo Tomé y Príncipe,36528.05,681,Salaried,2024-10-09
+U001649,69,F,San Amalia los bajos,6687.46,736,Salaried,2024-08-19
+U001650,52,M,Nueva Singapur,16368.79,654,Salaried,2024-04-26
+U001651,43,M,San Florencia de la Montaña,15214.06,645,Salaried,2024-07-18
+U001652,25,F,San Natividad los altos,25861.04,730,Salaried,2024-07-30
+U001653,18,M,Nueva Timor-Leste,18383.41,691,Self-Employed,2024-08-06
+U001654,42,M,San Leonardo los altos,38434.58,709,Salaried,2025-02-05
+U001655,57,F,Nueva Egipto,6573.99,703,Salaried,2024-08-04
+U001656,34,M,San Zacarías los bajos,46706.01,673,Salaried,2025-11-02
+U001657,57,F,San Alejandro los altos,10754.96,705,Salaried,2024-03-06
+U001658,49,F,San Cristal los altos,12934.55,648,Salaried,2024-11-13
+U001659,62,F,San María Teresa los bajos,26189.52,799,Salaried,2025-11-11
+U001660,43,F,Vieja República de Moldova,15028.13,650,Salaried,2025-06-07
+U001661,54,M,San Pilar los altos,5274.42,692,Retired,2023-12-06
+U001662,61,M,Vieja Jordania,25908.5,725,Self-Employed,2024-01-12
+U001663,64,F,Vieja Argelia,13340.47,671,Self-Employed,2024-08-11
+U001664,53,F,San Socorro los altos,6937.54,716,Unemployed,2025-09-06
+U001665,30,M,Vieja Dominicana,23115.6,626,Self-Employed,2025-02-26
+U001666,65,M,Vieja Turkmenistán,34679.48,740,Salaried,2025-09-18
+U001667,18,M,San Alonso los bajos,30938.5,636,Salaried,2024-10-08
+U001668,26,F,Vieja Fiji,5887.02,662,Self-Employed,2024-09-05
+U001669,37,F,San Hermelinda de la Montaña,18063.9,758,Salaried,2025-01-02
+U001670,54,M,San Delia de la Montaña,20407.29,687,Salaried,2024-09-07
+U001671,62,M,Nueva Bosnia y Herzegovina,7216.88,737,Salaried,2024-10-31
+U001672,70,F,Vieja Países Bajos,7488.9,757,Salaried,2024-03-20
+U001673,58,M,Vieja Niger,11264.02,753,Salaried,2025-06-12
+U001674,39,F,San Itzel de la Montaña,20077.57,684,Salaried,2025-07-11
+U001675,53,F,Nueva Eritrea,9782.62,672,Salaried,2025-06-06
+U001676,44,M,Vieja Liberia,17274.56,692,Salaried,2025-05-29
+U001677,61,M,Nueva Indonesia,9355.44,683,Salaried,2025-11-15
+U001678,59,M,Nueva Islas Salomón,14004.67,608,Retired,2024-11-18
+U001679,36,F,Nueva Paraguay,17586.75,646,Salaried,2025-07-09
+U001680,50,F,San Agustín los altos,6687.53,614,Self-Employed,2025-07-03
+U001681,46,M,San Timoteo de la Montaña,4553.56,623,Salaried,2024-07-28
+U001682,36,F,Nueva Guinea Ecuatorial,8730.58,754,Self-Employed,2024-06-23
+U001683,27,M,San Marcos los altos,9744.64,680,Self-Employed,2024-02-21
+U001684,39,F,San Conchita de la Montaña,16988.45,691,Self-Employed,2024-06-21
+U001685,54,F,Nueva Senegal,12753.15,641,Self-Employed,2025-01-29
+U001686,22,M,Nueva Reino Unido de Gran Bretaña e Irlanda del Norte,31906.23,765,Salaried,2024-08-20
+U001687,32,F,San Genaro de la Montaña,4867.84,629,Salaried,2025-05-22
+U001688,36,F,San Renato de la Montaña,11294.98,640,Self-Employed,2024-04-03
+U001689,43,F,Vieja Santa Lucía,18098.41,660,Unemployed,2025-10-15
+U001690,67,F,San Paola los bajos,48973.45,780,Self-Employed,2023-12-31
+U001691,51,F,Nueva Namibia,15177.12,731,Salaried,2025-10-23
+U001692,29,M,Nueva Líbano,25939.97,667,Salaried,2024-01-02
+U001693,33,F,Vieja Libia,8186.73,677,Retired,2024-04-09
+U001694,62,M,San Sergio los bajos,22403.71,708,Salaried,2024-07-21
+U001695,43,M,San Elvia los altos,5186.44,644,Salaried,2025-07-03
+U001696,74,F,Vieja República Democrática del Congo,12779.74,696,Salaried,2024-03-03
+U001697,19,F,Vieja Botswana,43631.09,647,Salaried,2024-11-09
+U001698,23,M,San Trinidad los altos,18094.32,739,Salaried,2025-07-09
+U001699,27,M,San Mariano de la Montaña,52201.67,699,Self-Employed,2024-05-13
+U001700,74,F,Vieja Kirguistán,17941.25,727,Salaried,2024-09-21
+U001701,33,F,Vieja Islandia,15022.27,677,Salaried,2024-11-08
+U001702,26,M,San Alta  Gracia de la Montaña,17354.12,579,Salaried,2024-11-25
+U001703,28,M,Vieja Nicaragua,20115.41,689,Salaried,2024-11-14
+U001704,40,F,Vieja Japón,11690.3,763,Unemployed,2025-03-05
+U001705,47,F,Nueva Luxemburgo,8910.98,666,Salaried,2025-08-18
+U001706,26,M,Vieja República de Corea,44131.63,673,Salaried,2025-04-09
+U001707,47,F,Vieja Portugal,9603.96,677,Salaried,2024-11-14
+U001708,58,F,San Rosa los bajos,22124.5,709,Retired,2024-05-25
+U001709,48,M,Nueva Niger,6151.34,658,Self-Employed,2024-09-15
+U001710,46,F,Vieja Eslovaquia,9279.73,679,Salaried,2025-08-15
+U001711,34,M,San Manuel los altos,17248.94,700,Salaried,2025-07-25
+U001712,18,M,San Pamela los altos,4602.68,706,Salaried,2024-05-23
+U001713,48,M,Nueva Vietman,15545.73,744,Self-Employed,2025-11-14
+U001714,49,F,San Camila los altos,17439.95,735,Salaried,2025-02-26
+U001715,67,F,San Irma los altos,17675.37,755,Self-Employed,2024-02-05
+U001716,56,M,San Diana los bajos,18276.12,692,Self-Employed,2024-10-02
+U001717,53,F,Nueva Timor-Leste,52232.53,764,Salaried,2025-08-15
+U001718,74,F,San Itzel los bajos,18849.59,654,Salaried,2025-04-05
+U001719,28,F,Nueva España,6167.29,681,Self-Employed,2025-08-17
+U001720,32,F,Nueva Chipre,14578.64,656,Salaried,2025-04-18
+U001721,58,M,Vieja Portugal,14538.99,757,Salaried,2024-07-05
+U001722,69,F,San Sergio los altos,20276.98,659,Salaried,2024-11-03
+U001723,65,F,Nueva Tayikistán,12495.14,662,Salaried,2025-10-03
+U001724,72,M,San Helena los altos,10586.98,680,Salaried,2025-07-30
+U001725,36,M,San Manuel los altos,10030.77,627,Self-Employed,2025-11-01
+U001726,57,F,San Augusto los altos,12374.67,668,Salaried,2023-11-28
+U001727,57,F,San Carolina los bajos,2303.84,762,Salaried,2024-01-09
+U001728,19,M,San Paulina de la Montaña,25674.71,670,Salaried,2023-11-22
+U001729,52,M,San Blanca los bajos,13511.43,642,Salaried,2025-09-24
+U001730,24,F,Nueva Marruecos,36954.17,774,Salaried,2025-05-20
+U001731,63,F,San Socorro los bajos,14676.7,737,Self-Employed,2025-05-27
+U001732,32,M,San Leticia los bajos,14841.34,627,Salaried,2024-10-25
+U001733,49,M,Nueva Nauru,10434.85,690,Salaried,2024-03-09
+U001734,37,F,Vieja Kenya,10170.75,669,Retired,2025-09-04
+U001735,47,M,San Cristian los bajos,12646.81,682,Salaried,2025-09-29
+U001736,71,M,Nueva Alemania,13785.26,656,Salaried,2024-01-16
+U001737,67,F,Nueva Uganda,8688.8,640,Salaried,2025-10-09
+U001738,48,M,San Víctor los bajos,24021.13,613,Salaried,2024-03-06
+U001739,71,F,Nueva Somalia,26692.94,767,Self-Employed,2025-08-08
+U001740,71,M,San María Eugenia los altos,11144.39,592,Salaried,2025-03-05
+U001741,67,M,San Sofía de la Montaña,10755.94,691,Salaried,2024-11-08
+U001742,46,M,San Pedro los bajos,7285.5,659,Self-Employed,2024-09-15
+U001743,20,M,San Espartaco de la Montaña,33460.37,720,Salaried,2024-10-16
+U001744,67,M,Vieja Vanuatu,7671.45,627,Salaried,2024-05-23
+U001745,31,F,San Lilia los altos,10979.55,667,Salaried,2025-02-11
+U001746,37,F,San Aldo de la Montaña,17992.67,665,Salaried,2025-02-05
+U001747,64,M,San José Carlos de la Montaña,18158.6,777,Self-Employed,2025-02-14
+U001748,53,M,San Arcelia de la Montaña,21792.05,696,Salaried,2025-06-11
+U001749,58,F,San Martha los altos,11969.41,676,Salaried,2024-01-21
+U001750,74,M,Nueva Namibia,27129.71,689,Unemployed,2025-03-25
+U001751,31,M,Vieja Santa Lucía,13727.19,681,Salaried,2024-01-01
+U001752,45,F,San Oswaldo de la Montaña,9886.54,627,Salaried,2024-11-20
+U001753,68,F,San Nelly los bajos,16216.5,697,Salaried,2025-02-09
+U001754,43,M,San Lucía los bajos,18036.35,668,Salaried,2025-08-02
+U001755,20,F,San Gregorio de la Montaña,27791.7,652,Self-Employed,2023-12-19
+U001756,27,F,San Ramón los bajos,37317.74,630,Self-Employed,2024-01-08
+U001757,33,M,San Ricardo de la Montaña,17341.57,702,Salaried,2025-02-08
+U001758,61,F,Vieja Venezuela,8288.84,705,Retired,2025-03-20
+U001759,66,M,Vieja Nigeria,28787.92,623,Salaried,2024-01-25
+U001760,59,M,Nueva Guinea,18063.47,597,Self-Employed,2024-06-04
+U001761,68,M,Vieja Guatemala,7484.59,756,Salaried,2025-09-18
+U001762,32,F,San Adela los altos,9423.21,628,Retired,2024-02-16
+U001763,68,F,Nueva Sudán del Sur,11863.69,778,Self-Employed,2024-11-02
+U001764,46,M,San Delia los bajos,4451.47,635,Salaried,2025-07-21
+U001765,42,F,Vieja Djibouti,32809.03,778,Self-Employed,2025-08-03
+U001766,34,M,Vieja Bhután,12555.84,629,Salaried,2024-03-13
+U001767,46,F,Vieja Zimbabwe,46981.36,783,Salaried,2024-10-07
+U001768,49,M,San Eva los altos,20077.76,662,Salaried,2024-10-28
+U001769,52,F,Nueva República Dominicana,12972.44,682,Salaried,2025-06-14
+U001770,47,F,San Ana los altos,16293.32,747,Unemployed,2024-06-14
+U001771,56,M,Nueva Côte d'Ivoire,22644.0,657,Salaried,2024-11-16
+U001772,27,F,San Martín los bajos,30512.69,706,Salaried,2024-11-25
+U001773,34,F,Vieja Tayikistán,20175.81,745,Salaried,2025-05-23
+U001774,67,F,San Mario los bajos,6857.18,688,Self-Employed,2024-03-13
+U001775,74,M,San Adán los bajos,9712.09,633,Self-Employed,2025-11-11
+U001776,41,M,San Juana los altos,16449.1,787,Salaried,2024-07-24
+U001777,22,F,Nueva Portugal,4429.11,664,Salaried,2025-03-31
+U001778,61,F,San Magdalena los altos,19620.41,705,Self-Employed,2025-11-04
+U001779,27,F,San Israel los bajos,12483.0,624,Salaried,2024-06-16
+U001780,59,F,Vieja Sudán,15362.3,664,Salaried,2025-02-17
+U001781,51,M,San María Teresa los altos,3590.5,726,Salaried,2025-06-25
+U001782,26,M,Nueva Paraguay,23742.73,688,Unemployed,2024-08-10
+U001783,30,M,Vieja República Centroafricana,15328.13,723,Salaried,2023-11-30
+U001784,24,M,Nueva Andorra,15284.64,713,Salaried,2024-10-06
+U001785,71,F,Nueva Timor-Leste,11175.85,749,Self-Employed,2024-11-02
+U001786,51,F,San Estefanía los altos,16195.22,699,Salaried,2024-06-29
+U001787,32,M,San Elisa de la Montaña,6235.18,683,Salaried,2023-12-10
+U001788,31,F,Nueva Rwanda,8109.79,648,Retired,2025-04-15
+U001789,71,M,Nueva Turquía,8190.86,651,Salaried,2024-02-23
+U001790,58,M,Nueva Lesotho,47803.92,780,Salaried,2025-04-14
+U001791,65,F,Nueva Trinidad y Tabago,42286.39,675,Self-Employed,2024-04-13
+U001792,68,M,San Guadalupe los bajos,13943.27,646,Self-Employed,2025-04-18
+U001793,35,M,Vieja Guatemala,8800.67,639,Self-Employed,2025-07-11
+U001794,71,F,San Yeni los bajos,28106.34,697,Salaried,2024-06-08
+U001795,31,M,Nueva Guatemala,25362.52,715,Salaried,2025-07-17
+U001796,32,F,Vieja Liberia,53219.67,660,Salaried,2024-08-06
+U001797,51,M,Vieja Ghana,28439.66,749,Salaried,2024-04-08
+U001798,29,F,San Ángela los bajos,7450.03,712,Self-Employed,2025-11-12
+U001799,67,F,Vieja Dinamarca,16345.16,690,Self-Employed,2025-04-06
+U001800,62,F,San Bianca de la Montaña,8148.9,660,Unemployed,2025-01-14
+U001801,28,M,San Esteban los altos,45701.54,709,Salaried,2025-04-04
+U001802,50,F,Vieja Ucrania,21360.06,664,Self-Employed,2024-06-10
+U001803,52,F,Nueva Bélgica,8367.31,727,Retired,2024-01-15
+U001804,75,F,San Marisela de la Montaña,5944.69,676,Salaried,2025-10-18
+U001805,38,F,San Conchita los altos,13635.29,687,Salaried,2025-04-02
+U001806,58,F,Nueva Suiza,11998.59,706,Self-Employed,2024-09-20
+U001807,38,M,San Cornelio los altos,20246.02,718,Salaried,2024-08-04
+U001808,31,F,San René de la Montaña,7394.69,661,Self-Employed,2024-12-26
+U001809,65,F,San Mateo los bajos,27360.56,745,Salaried,2024-09-30
+U001810,46,F,Nueva Afganistán,5862.22,692,Retired,2024-09-15
+U001811,18,M,San Carlos los altos,4076.79,664,Retired,2025-01-10
+U001812,56,M,San Isabela los altos,41716.84,681,Salaried,2024-07-14
+U001813,74,F,San Anabel los altos,8098.27,725,Salaried,2025-04-07
+U001814,32,M,Vieja Portugal,5293.95,645,Unemployed,2025-09-14
+U001815,19,F,San Ariadna los bajos,19108.04,653,Retired,2025-07-04
+U001816,50,M,San Vicente de la Montaña,11596.03,716,Salaried,2024-04-07
+U001817,47,F,Vieja Suecia,17204.52,701,Salaried,2024-04-18
+U001818,34,F,San Julio de la Montaña,10900.09,692,Unemployed,2025-03-25
+U001819,33,M,San Micaela de la Montaña,12403.83,697,Salaried,2025-10-09
+U001820,37,M,San Elias de la Montaña,9915.36,671,Salaried,2023-12-19
+U001821,54,M,Nueva Uganda,7376.28,682,Self-Employed,2025-02-24
+U001822,64,F,Vieja Liberia,8212.39,645,Self-Employed,2024-01-09
+U001823,29,F,San Modesto los altos,15602.66,688,Self-Employed,2025-08-30
+U001824,62,M,San Adriana de la Montaña,21369.59,685,Salaried,2024-08-11
+U001825,37,M,Vieja Uganda,17065.8,707,Self-Employed,2023-12-25
+U001826,54,F,San Caridad de la Montaña,17445.98,661,Salaried,2025-08-09
+U001827,21,F,San Omar de la Montaña,14612.29,689,Salaried,2025-06-19
+U001828,70,F,Nueva Armenia,13417.39,614,Salaried,2025-06-15
+U001829,73,M,Vieja Sudán,14710.16,789,Unemployed,2023-12-06
+U001830,32,M,San Serafín de la Montaña,10764.15,647,Self-Employed,2024-05-28
+U001831,58,F,Nueva Cuba,16714.12,708,Salaried,2025-03-27
+U001832,51,M,Vieja Botswana,27327.29,652,Salaried,2024-11-10
+U001833,54,M,Nueva Bulgaria,20719.45,721,Salaried,2024-02-18
+U001834,62,M,San Rosario los altos,12267.54,706,Salaried,2024-05-11
+U001835,61,F,Nueva Malta,24777.08,740,Retired,2024-08-10
+U001836,66,M,San Irma de la Montaña,6729.04,722,Salaried,2025-05-06
+U001837,36,F,Vieja Eslovenia,12851.13,683,Salaried,2025-07-07
+U001838,39,M,Nueva Islas Salomón,13959.54,677,Salaried,2024-01-10
+U001839,65,M,Vieja China,27310.44,706,Salaried,2025-07-02
+U001840,34,M,San Darío los altos,6824.49,658,Salaried,2024-09-04
+U001841,45,M,Vieja Finlandia,14871.72,736,Self-Employed,2025-11-09
+U001842,48,M,Nueva Brasil,19184.48,659,Salaried,2025-07-28
+U001843,59,M,San Cristina de la Montaña,59344.45,749,Salaried,2025-10-05
+U001844,65,M,San Ariadna de la Montaña,28716.71,705,Salaried,2023-11-27
+U001845,35,F,Nueva Turkmenistán,18398.34,719,Salaried,2025-04-11
+U001846,54,M,San Lorena los altos,27747.94,747,Salaried,2025-08-10
+U001847,44,F,San Carmen de la Montaña,22546.12,681,Salaried,2024-03-12
+U001848,30,F,San Octavio los bajos,9480.12,687,Salaried,2024-10-07
+U001849,59,M,Nueva Santa Lucía,23385.63,693,Self-Employed,2025-05-12
+U001850,28,F,Nueva Ucrania,25313.75,747,Self-Employed,2024-12-14
+U001851,69,F,Vieja Japón,7709.49,658,Self-Employed,2024-10-12
+U001852,46,M,Nueva Egipto,12280.59,697,Retired,2024-02-21
+U001853,32,M,Vieja Reino Unido de Gran Bretaña e Irlanda del Norte,9752.31,729,Self-Employed,2024-12-20
+U001854,27,M,Vieja Serbia,17230.56,682,Salaried,2025-04-17
+U001855,21,M,Vieja Bahamas,5644.6,613,Retired,2024-04-20
+U001856,27,F,Nueva Timor-Leste,15813.28,594,Salaried,2025-09-07
+U001857,62,M,San Miriam de la Montaña,24528.29,699,Salaried,2024-03-25
+U001858,48,M,Nueva Sri Lanka,93513.0,850,Salaried,2024-08-30
+U001859,65,M,San Enrique los bajos,11981.64,690,Salaried,2024-06-04
+U001860,51,F,San Sergio los bajos,24278.56,767,Salaried,2023-12-25
+U001861,57,M,Nueva Qatar,4999.95,612,Self-Employed,2024-04-06
+U001862,60,M,Nueva Nigeria,9198.35,712,Salaried,2024-12-25
+U001863,75,M,Nueva Fiji,17999.95,748,Salaried,2025-06-04
+U001864,21,F,San Rosalia los altos,6504.06,574,Salaried,2024-08-01
+U001865,62,F,San Elvia los altos,22355.07,670,Salaried,2025-04-30
+U001866,59,M,San Estela de la Montaña,3979.48,689,Salaried,2024-08-01
+U001867,60,F,Nueva Fiji,21502.09,696,Self-Employed,2025-06-17
+U001868,60,F,San Elvira los bajos,10150.63,683,Unemployed,2025-10-14
+U001869,19,F,Nueva Namibia,10696.27,616,Unemployed,2025-02-18
+U001870,59,F,San Ana los bajos,8700.99,709,Salaried,2024-03-13
+U001871,42,M,Vieja Dinamarca,16203.9,693,Retired,2024-09-17
+U001872,49,M,San Celia los bajos,7353.35,674,Salaried,2025-06-03
+U001873,50,F,Vieja Grecia,3618.31,685,Salaried,2024-04-27
+U001874,63,M,San Carolina de la Montaña,31486.51,654,Salaried,2025-05-12
+U001875,51,F,Vieja Chad,9399.8,698,Salaried,2024-02-16
+U001876,43,M,San María José los bajos,28330.82,681,Salaried,2024-04-02
+U001877,61,F,San Estefanía los bajos,8818.88,610,Salaried,2025-03-04
+U001878,37,M,Nueva República Dominicana,14215.14,764,Retired,2025-01-24
+U001879,50,F,Nueva Malasia,15778.68,689,Self-Employed,2025-09-17
+U001880,58,F,San Esmeralda los altos,16207.82,694,Unemployed,2024-11-23
+U001881,74,M,San Germán de la Montaña,8202.48,728,Retired,2025-06-11
+U001882,35,M,San Fernando de la Montaña,15297.69,683,Salaried,2024-08-02
+U001883,75,F,San Ricardo de la Montaña,7441.15,747,Self-Employed,2025-10-14
+U001884,23,F,Nueva Malawi,19906.9,659,Salaried,2023-12-26
+U001885,61,M,Vieja Vanuatu,24369.68,684,Salaried,2025-07-10
+U001886,54,M,Vieja Polonia,8356.52,654,Salaried,2024-09-23
+U001887,37,F,San Berta los bajos,4616.35,691,Salaried,2024-12-10
+U001888,26,M,Nueva República de Corea,4452.91,618,Self-Employed,2025-06-28
+U001889,55,M,Vieja España,3845.45,677,Unemployed,2024-03-04
+U001890,37,M,San Gustavo de la Montaña,12207.52,667,Salaried,2025-04-08
+U001891,67,M,Nueva Nicaragua,7147.04,643,Self-Employed,2025-04-24
+U001892,54,M,San Cynthia los altos,17652.31,672,Salaried,2024-11-12
+U001893,53,M,Vieja Mozambique,16152.26,657,Salaried,2025-07-13
+U001894,71,M,Vieja Dominicana,14892.87,752,Self-Employed,2025-07-27
+U001895,66,F,San Socorro los bajos,18990.6,685,Unemployed,2025-05-21
+U001896,44,F,Nueva Líbano,15588.98,677,Salaried,2025-10-15
+U001897,65,F,San Olga de la Montaña,13423.04,682,Salaried,2024-07-09
+U001898,30,M,San Genaro los altos,12105.3,685,Salaried,2025-03-11
+U001899,19,F,Nueva San Vicente y las Granadinas,7361.25,626,Self-Employed,2025-10-06
+U001900,57,M,San Anabel los altos,5807.32,620,Salaried,2025-10-28
+U001901,32,M,San Amelia de la Montaña,6435.79,678,Salaried,2024-09-14
+U001902,62,F,San Martha los altos,7819.12,709,Salaried,2023-12-23
+U001903,72,F,San Josefina de la Montaña,13640.9,620,Self-Employed,2025-04-08
+U001904,41,M,Nueva Chile,19791.06,722,Unemployed,2024-08-08
+U001905,49,F,Nueva Sudáfrica,7359.02,698,Salaried,2024-11-27
+U001906,30,M,Nueva Irlanda,7991.24,676,Salaried,2024-08-21
+U001907,66,M,San Nadia los altos,6256.03,617,Retired,2024-10-15
+U001908,44,M,San Ana de la Montaña,10618.04,677,Self-Employed,2024-09-06
+U001909,30,M,San María Cristina los bajos,10523.77,628,Salaried,2024-12-15
+U001910,46,F,Vieja Turquía,10509.77,694,Self-Employed,2025-01-08
+U001911,73,F,San María Cristina los altos,13004.67,706,Unemployed,2024-09-02
+U001912,45,F,Nueva Montenegro,8936.78,728,Self-Employed,2024-01-28
+U001913,56,F,Vieja Dinamarca,6596.51,704,Self-Employed,2024-07-02
+U001914,43,M,Nueva Côte d'Ivoire,27150.06,717,Salaried,2024-06-23
+U001915,46,F,Nueva Omán,11831.08,663,Self-Employed,2024-03-17
+U001916,20,M,Nueva Haití,24875.85,627,Salaried,2024-10-10
+U001917,43,M,Vieja Jamaica,7464.59,663,Salaried,2024-10-13
+U001918,51,M,San Verónica de la Montaña,28073.81,718,Salaried,2024-07-05
+U001919,46,F,Nueva Antigua y Barbuda,7473.9,668,Unemployed,2025-09-29
+U001920,67,F,Vieja Malasia,9241.01,664,Salaried,2025-02-13
+U001921,45,F,San Vanesa los altos,24036.62,641,Self-Employed,2025-07-25
+U001922,21,M,San Mercedes los altos,35075.86,728,Salaried,2025-04-22
+U001923,59,F,San María José los bajos,25706.96,686,Salaried,2025-02-04
+U001924,50,M,Vieja Croacia,12210.31,629,Salaried,2025-07-27
+U001925,55,M,San Esperanza los bajos,9751.76,706,Salaried,2024-09-05
+U001926,38,F,San Amanda de la Montaña,29075.11,653,Salaried,2024-08-22
+U001927,47,M,San María Eugenia de la Montaña,10728.9,678,Unemployed,2025-03-16
+U001928,23,F,Vieja Djibouti,5782.12,690,Salaried,2024-04-06
+U001929,59,M,Nueva Fiji,8652.52,680,Self-Employed,2024-02-20
+U001930,25,M,Vieja República Dominicana,10186.62,641,Salaried,2024-02-28
+U001931,46,F,San Francisca los bajos,13303.37,677,Salaried,2024-04-13
+U001932,63,F,Nueva Suiza,10688.09,663,Self-Employed,2024-07-25
+U001933,50,M,San Concepción los bajos,16182.97,757,Salaried,2024-11-04
+U001934,42,M,Vieja Camboya,14529.44,725,Self-Employed,2025-11-05
+U001935,39,M,Vieja Omán,5801.47,681,Salaried,2025-07-10
+U001936,27,M,Vieja Iraq,6915.9,611,Self-Employed,2024-03-22
+U001937,21,F,Vieja Sri Lanka,8573.04,716,Salaried,2025-05-22
+U001938,64,F,San Mario los bajos,23623.79,715,Salaried,2025-06-29
+U001939,29,M,Vieja Israel,5326.13,661,Unemployed,2025-05-10
+U001940,30,M,Vieja Australia,16010.82,688,Self-Employed,2024-03-09
+U001941,34,M,Vieja Arabia Saudita,4419.24,635,Salaried,2024-09-28
+U001942,72,F,Vieja Kazajstán,12855.84,720,Salaried,2024-02-01
+U001943,18,F,San Anabel los altos,3577.16,656,Salaried,2025-04-03
+U001944,55,F,Nueva Guinea,14557.03,726,Salaried,2024-04-22
+U001945,46,M,Nueva Qatar,20246.04,716,Self-Employed,2025-09-11
+U001946,18,M,San Zoé los altos,8267.07,590,Unemployed,2024-01-28
+U001947,35,M,San Eloisa los bajos,10553.03,718,Salaried,2024-07-25
+U001948,27,M,Vieja Liechtenstein,30824.73,722,Self-Employed,2024-03-15
+U001949,20,M,San José Eduardo los bajos,17285.18,692,Unemployed,2024-09-06
+U001950,60,F,Vieja Jamaica,9569.43,684,Salaried,2024-08-20
+U001951,23,M,San Marisela los altos,36367.9,660,Salaried,2024-01-29
+U001952,29,M,Vieja Vietman,35202.32,686,Self-Employed,2024-10-09
+U001953,57,M,San Graciela de la Montaña,29592.0,651,Retired,2025-08-08
+U001954,65,F,San Linda de la Montaña,18987.62,672,Retired,2025-08-31
+U001955,23,F,Nueva Eslovaquia,5714.94,675,Salaried,2024-07-14
+U001956,75,F,San Ofelia los bajos,24481.75,678,Self-Employed,2024-01-12
+U001957,66,F,San Augusto de la Montaña,5434.87,684,Self-Employed,2024-10-05
+U001958,22,F,San Linda de la Montaña,12676.93,695,Salaried,2025-01-26
+U001959,25,F,San Raquel de la Montaña,23617.82,683,Salaried,2024-04-24
+U001960,44,M,Vieja Guyana,40672.28,721,Self-Employed,2025-01-25
+U001961,57,M,San Alma los bajos,10852.43,624,Salaried,2025-08-31
+U001962,64,M,San Miguel los altos,11411.81,679,Salaried,2025-06-18
+U001963,62,F,San Esparta de la Montaña,23770.08,723,Salaried,2025-07-28
+U001964,72,F,Nueva Ghana,6583.87,699,Salaried,2024-07-12
+U001965,54,F,San Carlota los altos,19988.63,758,Retired,2025-04-22
+U001966,57,F,San Lorena de la Montaña,22754.14,731,Salaried,2024-12-08
+U001967,58,F,Nueva Cabo Verde,13850.15,708,Salaried,2025-07-07
+U001968,29,M,San Miguel de la Montaña,28274.14,639,Self-Employed,2025-03-01
+U001969,30,M,San Roberto los bajos,10832.83,644,Salaried,2025-02-03
+U001970,47,M,San Francisco Javier los altos,16772.43,739,Self-Employed,2025-05-07
+U001971,31,F,San Carla los bajos,9337.7,579,Salaried,2024-12-24
+U001972,39,F,Vieja Costa Rica,10432.36,716,Salaried,2025-02-15
+U001973,58,M,Nueva Iraq,18445.54,714,Salaried,2024-11-14
+U001974,30,F,Vieja Costa Rica,11293.74,625,Salaried,2024-01-02
+U001975,22,F,San Jorge Luis los bajos,18199.99,645,Salaried,2025-03-30
+U001976,53,F,San Amanda los bajos,49536.15,748,Self-Employed,2024-07-05
+U001977,25,F,Nueva Serbia,9429.62,647,Salaried,2024-04-12
+U001978,64,M,Nueva República Árabe Siria,12635.09,685,Self-Employed,2024-07-29
+U001979,30,F,San Hermelinda los bajos,26110.69,698,Self-Employed,2025-05-07
+U001980,61,F,San Beatriz los altos,8612.94,764,Retired,2025-02-14
+U001981,69,M,San Claudio de la Montaña,13760.88,729,Self-Employed,2024-03-07
+U001982,48,M,San José Emilio los bajos,9274.87,697,Self-Employed,2024-10-07
+U001983,75,F,San Dalia de la Montaña,16101.47,628,Salaried,2024-05-09
+U001984,70,F,Nueva Ecuador,44764.25,781,Retired,2025-07-31
+U001985,21,F,Vieja Montenegro,10526.83,626,Salaried,2025-11-02
+U001986,61,F,Nueva Canadá,16457.51,700,Salaried,2025-11-08
+U001987,19,M,Vieja Japón,16537.76,683,Salaried,2024-07-21
+U001988,39,F,San Clara los bajos,18101.4,745,Salaried,2025-10-13
+U001989,27,F,San Débora los altos,18785.9,640,Self-Employed,2024-07-15
+U001990,39,F,Nueva Estados Unidos de América,30258.66,765,Self-Employed,2024-02-29
+U001991,71,M,Nueva India,88542.15,729,Salaried,2024-02-27
+U001992,42,M,Nueva Benin,15455.64,603,Salaried,2024-10-16
+U001993,73,F,Nueva Angola,18618.1,683,Self-Employed,2025-07-15
+U001994,38,M,San Luis Manuel de la Montaña,42364.56,680,Salaried,2024-04-22
+U001995,23,F,Nueva Sudán del Sur,4848.82,647,Unemployed,2024-12-24
+U001996,41,F,Vieja Cabo Verde,4083.49,704,Self-Employed,2025-10-27
+U001997,37,M,San Alvaro de la Montaña,3869.77,673,Salaried,2024-07-13
+U001998,29,M,Nueva Camboya,3840.33,655,Salaried,2025-11-05
+U001999,20,M,Nueva Dominicana,35811.59,710,Retired,2025-04-25

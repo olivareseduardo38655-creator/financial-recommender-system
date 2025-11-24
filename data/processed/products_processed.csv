@@ -1,0 +1,101 @@
+product_id,category,product_name,interest_rate,credit_limit,category_encoded
+P0000,Investment Fund,Investment Fund Total Gold,0.0,0.0,2
+P0001,Investment Fund,Investment Fund Si Platinum,0.0,0.0,2
+P0002,Personal Loan,Personal Loan Tres Basic,0.41034674578156866,0.010411560035221982,4
+P0003,Investment Fund,Investment Fund Días Basic,0.0,0.0,2
+P0004,Mortgage,Mortgage Santiago Platinum,0.22047098090116818,0.5685062259215198,3
+P0005,Credit Card,Credit Card Ideas Platinum,0.7906545521972927,0.001004056516847297,0
+P0006,Personal Loan,Personal Loan Peor Gold,0.3843871685518264,0.009377679023598252,4
+P0007,Investment Fund,Investment Fund Verdad Pro,0.0,0.0,2
+P0008,Insurance,Insurance Aquellas Gold,0.0,0.0,1
+P0009,Credit Card,Credit Card Podemos Basic,0.3667717411459299,0.010040565168472971,0
+P0010,Credit Card,Credit Card Persona Gold,0.4782124976821806,0.004016226067389188,0
+P0011,Mortgage,Mortgage Creo Pro,0.16725384758019654,0.8486073001141957,3
+P0012,Credit Card,Credit Card Nunca Gold,0.5935471908028926,0.002008113033694594,0
+P0013,Insurance,Insurance Junio Basic,0.0,0.0,1
+P0014,Credit Card,Credit Card Congreso Basic,0.7595030595216021,0.004016226067389188,0
+P0015,Personal Loan,Personal Loan Felipe Basic,0.5525681438902281,0.04159413563200265,4
+P0016,Personal Loan,Personal Loan Sean Platinum,0.3823474874837753,0.03968287188181011,4
+P0017,Mortgage,Mortgage Única Basic,0.20174300018542557,0.5951706616549306,3
+P0018,Insurance,Insurance Final Basic,0.0,0.0,1
+P0019,Investment Fund,Investment Fund Dólares Gold,0.0,0.0,2
+P0020,Mortgage,Mortgage Experiencia Platinum,0.218431299833117,0.32712290239741704,3
+P0021,Personal Loan,Personal Loan Tiempo Basic,0.2319673651029112,0.04070407567585213,4
+P0022,Credit Card,Credit Card Año Gold,0.7926942332653439,0.004016226067389188,0
+P0023,Insurance,Insurance Prueba Gold,0.0,0.0,1
+P0024,Personal Loan,Personal Loan Naturaleza Basic,0.45318004821064345,0.05818396265668021,4
+P0025,Insurance,Insurance Mayo Basic,0.0,0.0,1
+P0026,Mortgage,Mortgage No Platinum,0.17300203968106806,0.38553748277922584,3
+P0027,Mortgage,Mortgage Gracias Platinum,0.15631374003337659,0.431863270892906,3
+P0028,Personal Loan,Personal Loan Horas Gold,0.23159651399962916,0.07743926654908442,4
+P0029,Mortgage,Mortgage Conocimiento Basic,0.22010012979788612,0.9770142747277271,3
+P0030,Insurance,Insurance Tipo Pro,0.0,0.0,1
+P0031,Credit Card,Credit Card Vuelve Platinum,1.0,0.020081130336945942,0
+P0032,Credit Card,Credit Card Sería Pro,0.862970517337289,0.010040565168472971,0
+P0033,Credit Card,Credit Card Tienen Gold,0.9859076580752828,0.002008113033694594,0
+P0034,Investment Fund,Investment Fund Llama Gold,0.0,0.0,2
+P0035,Credit Card,Credit Card Lejos Pro,0.6582607083256072,0.004016226067389188,0
+P0036,Investment Fund,Investment Fund Causa Platinum,0.0,0.0,2
+P0037,Insurance,Insurance En Pro,0.0,0.0,1
+P0038,Insurance,Insurance Somos Basic,0.0,0.0,1
+P0039,Mortgage,Mortgage Miedo Basic,0.1633599109957352,0.34006157629611805,3
+P0040,Personal Loan,Personal Loan Año Gold,0.26404598553680697,0.01141892190612274,4
+P0041,Investment Fund,Investment Fund Encuentran Platinum,0.0,0.0,2
+P0042,Credit Card,Credit Card Hizo Pro,0.6278509178564806,0.001004056516847297,0
+P0043,Credit Card,Credit Card Tipos Pro,0.6832931577971445,0.001004056516847297,0
+P0044,Mortgage,Mortgage Mundial Pro,0.18894863712219542,0.2491459274375263,3
+P0045,Investment Fund,Investment Fund Tribunal Platinum,0.0,0.0,2
+P0046,Personal Loan,Personal Loan Baja Platinum,0.21509363990357871,0.03323839537181675,4
+P0047,Insurance,Insurance Efecto Basic,0.0,0.0,1
+P0048,Mortgage,Mortgage Zona Pro,0.16465788985722235,0.5660616314469344,3
+P0049,Personal Loan,Personal Loan Ocho Basic,0.23289449286111627,0.07598050898179158,4
+P0050,Mortgage,Mortgage Españoles Pro,0.21546449100686074,0.7722114892596796,3
+P0051,Investment Fund,Investment Fund Manera Gold,0.0,0.0,2
+P0052,Credit Card,Credit Card Interés Pro,0.7227888002966808,0.020081130336945942,0
+P0053,Credit Card,Credit Card Compañía Basic,0.7813832746152419,0.002008113033694594,0
+P0054,Investment Fund,Investment Fund Máximo Pro,0.0,0.0,2
+P0055,Personal Loan,Personal Loan Hacer Basic,0.19024661598368253,0.040785613097472265,4
+P0056,Mortgage,Mortgage Fin Platinum,0.2113851288707584,0.412941307739756,3
+P0057,Insurance,Insurance Ciencia Gold,0.0,0.0,1
+P0058,Investment Fund,Investment Fund C Gold,0.0,0.0,2
+P0059,Mortgage,Mortgage Razón Gold,0.15093639903578715,0.7746915269293099,3
+P0060,Mortgage,Mortgage Siendo Pro,0.2078620433895791,0.24552628361316145,3
+P0061,Investment Fund,Investment Fund Hizo Pro,0.0,0.0,2
+P0062,Personal Loan,Personal Loan Tenemos Platinum,0.4344520674949008,0.020896056743940784,4
+P0063,Insurance,Insurance Mí Platinum,0.0,0.0,1
+P0064,Investment Fund,Investment Fund Base Pro,0.0,0.0,2
+P0065,Credit Card,Credit Card Mayor Basic,0.8783608381234934,0.001004056516847297,0
+P0066,Personal Loan,Personal Loan Libros Pro,0.24624513257926942,0.03248101546002849,4
+P0067,Investment Fund,Investment Fund Varios Basic,0.0,0.0,2
+P0068,Insurance,Insurance Mucho Platinum,0.0,0.0,1
+P0069,Personal Loan,Personal Loan Estaban Gold,0.2788800296680882,0.09143440269047305,4
+P0070,Insurance,Insurance Poco Pro,0.0,0.0,1
+P0071,Credit Card,Credit Card Época Pro,0.9126645651770814,0.004016226067389188,0
+P0072,Mortgage,Mortgage Madrid Gold,0.1705915075097348,0.266717868327932,3
+P0073,Investment Fund,Investment Fund Universidad Platinum,0.0,0.0,2
+P0074,Mortgage,Mortgage Práctica Pro,0.2045243834600408,0.5288788904137696,3
+P0075,Credit Card,Credit Card Único Gold,0.4665306879287966,0.002008113033694594,0
+P0076,Insurance,Insurance Quedó Pro,0.0,0.0,1
+P0077,Mortgage,Mortgage Equipo Pro,0.218431299833117,1.0,3
+P0078,Credit Card,Credit Card Civil Gold,0.6538104950862228,0.020081130336945942,0
+P0079,Personal Loan,Personal Loan Carta Platinum,0.2540330057481921,0.09889568924319071,4
+P0080,Insurance,Insurance También Gold,0.0,0.0,1
+P0081,Personal Loan,Personal Loan Otra Platinum,0.2824031151492676,0.014834539438151178,4
+P0082,Investment Fund,Investment Fund Éste Basic,0.0,0.0,2
+P0083,Investment Fund,Investment Fund Control Pro,0.0,0.0,2
+P0084,Personal Loan,Personal Loan Les Platinum,0.27980715742629336,0.07768183656298956,4
+P0085,Mortgage,Mortgage Comisión Basic,0.17986278509178563,0.6113442550424361,3
+P0086,Insurance,Insurance Cabeza Basic,0.0,0.0,1
+P0087,Investment Fund,Investment Fund Difícil Basic,0.0,0.0,2
+P0088,Credit Card,Credit Card Debido Gold,0.2957537548674207,0.001004056516847297,0
+P0089,Insurance,Insurance Texto Pro,0.0,0.0,1
+P0090,Personal Loan,Personal Loan Respecto Basic,0.1895049137771185,0.03960905163857847,4
+P0091,Credit Card,Credit Card Especie Basic,0.5299462265900241,0.001004056516847297,0
+P0092,Insurance,Insurance Pregunta Gold,0.0,0.0,1
+P0093,Credit Card,Credit Card Ninguna Basic,0.35045429260152045,0.010040565168472971,0
+P0094,Credit Card,Credit Card Sentido Basic,0.6145002781383274,0.010040565168472971,0
+P0095,Credit Card,Credit Card Jóvenes Platinum,0.6018913406267383,0.004016226067389188,0
+P0096,Investment Fund,Investment Fund Base Pro,0.0,0.0,2
+P0097,Mortgage,Mortgage Director Pro,0.15816799554978675,0.9456756908374718,3
+P0098,Investment Fund,Investment Fund Junio Pro,0.0,0.0,2
+P0099,Investment Fund,Investment Fund Media Platinum,0.0,0.0,2
