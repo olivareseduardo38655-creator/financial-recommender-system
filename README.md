@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 
-## 🏦 Resumen Ejecutivo
+## Resumen Ejecutivo
 
 Este sistema es un motor de recomendación de productos financieros de **arquitectura híbrida** diseñado para el sector bancario (Retail Banking). A diferencia de los sistemas tradicionales que solo optimizan el *engagement* (clics), este motor integra una capa de **Gobierno de Riesgos** (Risk Governance Layer) que alinea las ofertas comerciales con la normativa de solvencia del cliente (Basel III compliance).
 
@@ -14,7 +14,7 @@ El sistema resuelve el problema del "Over-Lending" (sobreendeudamiento) al filtr
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+##  Arquitectura del Sistema
 
 El flujo de datos sigue una tubería ETL estricta, culminando en una inferencia en tiempo real orquestada por Docker.
 
